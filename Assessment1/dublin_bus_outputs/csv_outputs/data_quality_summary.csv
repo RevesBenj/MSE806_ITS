@@ -1,0 +1,10 @@
+metric,value
+routes,116.0
+stops,4331.0
+trips,28027.0
+stop_time_records,1515827.0
+missing_cells,1543854.0
+missing_cell_percent,5.99
+valid_inter_stop_segments,1487091.0
+outlier_or_invalid_segments_removed,28736.0
+overnight_records_hour_24_plus,63455.0

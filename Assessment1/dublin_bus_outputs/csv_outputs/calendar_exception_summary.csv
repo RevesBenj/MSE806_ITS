@@ -1,0 +1,4 @@
+metric,value,meaning
+calendar_date_additions_exception_type_1,2,Extra service dates added to normal calendar.
+calendar_date_removals_exception_type_2,2,Service dates removed from normal calendar.
+calendar_dates_total_exceptions,4,Total date exceptions applied in service-day logic.

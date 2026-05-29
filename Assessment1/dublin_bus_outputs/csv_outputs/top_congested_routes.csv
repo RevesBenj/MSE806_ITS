@@ -1,0 +1,21 @@
+route_id,mean_segment_seconds,median_segment_seconds,segment_count,route_short_name,route_long_name
+1 39X c a,177.94,137.0,200,39X,Ongar - Burlington Road
+1 X1 a,170.82,150.0,722,X1,Kilcoole - Hawkins Street
+1 X2 a,155.36,135.0,596,X2,Newcastle - Hawkins Street
+1 99 a,144.55,131.0,608,99,Phoenix Park - Phoenix Park
+1 P29 c,138.81,123.0,480,P29,Adamstown Stn - Ringsend
+1 X26 c,130.92,101.0,294,X26,Maynooth - Louisa Bridge - Leeson Street Lower
+1 X25 c,124.86,96.0,920,X25,Maynooth - Easton Rd - UCD
+1 X30 d,122.36,97.0,536,X30,Dodsboro - UCD
+1 X28 d,116.57,90.0,960,X28,Salesian College - Celbridge Main St - UCD
+1 51D c a,116.49,64.0,276,51D,Aston Quay - Clondalkin
+1 32X c a,116.14,75.0,162,32X,UCD Belfield - Malahide
+1 X31 c,113.42,90.0,558,X31,River Forest - UCD Belfield
+1 15D c a,110.55,99.0,238,15D,Merrion Square - Whitechurch
+1 41X c a,108.4,71.5,632,41X,Swords - UCD Belfield
+1 27X c a,108.27,75.0,256,27X,Clare Hall - UCD Belfield
+1 70D c a,108.0,60.0,150,70D,Dunboyne - DCU
+1 77X c a,105.48,75.0,126,77X,Citywest - UCD Belfield
+1 142 e a,104.96,85.0,918,142,Portmarnock - UCD (Belfield)
+1 X32 c,104.62,84.5,400,X32,Kildare Innovation Campus - UCD Belfield
+1 X27 d,104.24,80.0,914,X27,Salesian College - Aghards Rd - UCD

@@ -1,0 +1,1442 @@
+route_id,route_short_name,route_long_name,hour,mean_headway_minutes,median_headway_minutes,departures
+1 1 e a,1,Sandymount - O'Connell Street - Santry,6,12.0,12.0,2
+1 1 e a,1,Sandymount - O'Connell Street - Santry,7,10.0,10.0,5
+1 1 e a,1,Sandymount - O'Connell Street - Santry,8,8.0,10.0,7
+1 1 e a,1,Sandymount - O'Connell Street - Santry,9,6.22,6.0,9
+1 1 e a,1,Sandymount - O'Connell Street - Santry,10,6.22,6.0,9
+1 1 e a,1,Sandymount - O'Connell Street - Santry,11,6.22,6.0,9
+1 1 e a,1,Sandymount - O'Connell Street - Santry,12,6.22,6.0,9
+1 1 e a,1,Sandymount - O'Connell Street - Santry,13,6.22,6.0,9
+1 1 e a,1,Sandymount - O'Connell Street - Santry,14,6.22,6.0,9
+1 1 e a,1,Sandymount - O'Connell Street - Santry,15,6.22,6.0,9
+1 1 e a,1,Sandymount - O'Connell Street - Santry,16,6.22,6.0,9
+1 1 e a,1,Sandymount - O'Connell Street - Santry,17,6.22,6.0,9
+1 1 e a,1,Sandymount - O'Connell Street - Santry,18,6.22,6.0,9
+1 1 e a,1,Sandymount - O'Connell Street - Santry,19,8.33,10.0,6
+1 1 e a,1,Sandymount - O'Connell Street - Santry,20,10.0,10.0,5
+1 1 e a,1,Sandymount - O'Connell Street - Santry,21,10.0,10.0,5
+1 1 e a,1,Sandymount - O'Connell Street - Santry,22,10.0,10.0,5
+1 1 e a,1,Sandymount - O'Connell Street - Santry,23,10.0,10.0,3
+1 11 c a,11,Phoenix Park - Sandyford Business District,6,12.5,10.0,4
+1 11 c a,11,Phoenix Park - Sandyford Business District,7,7.14,5.0,7
+1 11 c a,11,Phoenix Park - Sandyford Business District,8,9.0,10.0,5
+1 11 c a,11,Phoenix Park - Sandyford Business District,9,10.0,10.0,5
+1 11 c a,11,Phoenix Park - Sandyford Business District,10,11.0,10.0,5
+1 11 c a,11,Phoenix Park - Sandyford Business District,11,11.0,10.0,5
+1 11 c a,11,Phoenix Park - Sandyford Business District,12,11.0,10.0,5
+1 11 c a,11,Phoenix Park - Sandyford Business District,13,11.0,10.0,5
+1 11 c a,11,Phoenix Park - Sandyford Business District,14,11.0,10.0,5
+1 11 c a,11,Phoenix Park - Sandyford Business District,15,15.0,15.0,3
+1 11 c a,11,Phoenix Park - Sandyford Business District,16,8.33,7.5,6
+1 11 c a,11,Phoenix Park - Sandyford Business District,17,7.14,5.0,7
+1 11 c a,11,Phoenix Park - Sandyford Business District,18,8.33,7.5,6
+1 11 c a,11,Phoenix Park - Sandyford Business District,19,11.25,12.5,4
+1 11 c a,11,Phoenix Park - Sandyford Business District,20,15.0,15.0,3
+1 11 c a,11,Phoenix Park - Sandyford Business District,21,15.0,15.0,3
+1 11 c a,11,Phoenix Park - Sandyford Business District,22,10.0,10.0,5
+1 11 c a,11,Phoenix Park - Sandyford Business District,23,10.0,5.0,3
+1 11B a,11B,Phoenix Park - Donnybrook,9,2.0,2.0,1
+1 11B a,11B,Phoenix Park - Donnybrook,10,10.75,10.0,4
+1 11B a,11B,Phoenix Park - Donnybrook,11,10.5,8.5,4
+1 11B a,11B,Phoenix Park - Donnybrook,12,7.86,8.0,7
+1 11B a,11B,Phoenix Park - Donnybrook,13,7.86,10.0,7
+1 11B a,11B,Phoenix Park - Donnybrook,14,9.5,10.0,6
+1 11B a,11B,Phoenix Park - Donnybrook,15,8.14,8.0,7
+1 11B a,11B,Phoenix Park - Donnybrook,16,9.5,10.0,6
+1 11B a,11B,Phoenix Park - Donnybrook,17,10.0,10.0,3
+1 120 c a,120,Ashtown Station - Parnell St,6,15.0,15.0,1
+1 120 c a,120,Ashtown Station - Parnell St,7,10.0,10.0,5
+1 120 c a,120,Ashtown Station - Parnell St,8,10.0,10.0,5
+1 120 c a,120,Ashtown Station - Parnell St,9,15.0,15.0,3
+1 120 c a,120,Ashtown Station - Parnell St,10,15.0,15.0,3
+1 120 c a,120,Ashtown Station - Parnell St,11,15.0,15.0,3
+1 120 c a,120,Ashtown Station - Parnell St,12,15.0,15.0,3
+1 120 c a,120,Ashtown Station - Parnell St,13,15.0,15.0,3
+1 120 c a,120,Ashtown Station - Parnell St,14,15.0,15.0,3
+1 120 c a,120,Ashtown Station - Parnell St,15,15.0,15.0,3
+1 120 c a,120,Ashtown Station - Parnell St,16,11.25,12.5,4
+1 120 c a,120,Ashtown Station - Parnell St,17,9.0,10.0,5
+1 120 c a,120,Ashtown Station - Parnell St,18,8.33,7.5,6
+1 120 c a,120,Ashtown Station - Parnell St,19,11.0,10.0,5
+1 120 c a,120,Ashtown Station - Parnell St,20,11.25,12.5,4
+1 120 c a,120,Ashtown Station - Parnell St,21,15.0,15.0,3
+1 120 c a,120,Ashtown Station - Parnell St,22,18.33,15.0,3
+1 120 c a,120,Ashtown Station - Parnell St,23,30.0,30.0,1
+1 122 c a,122,Drimnagh - Ashington,6,13.33,15.0,3
+1 122 c a,122,Drimnagh - Ashington,7,6.11,5.0,9
+1 122 c a,122,Drimnagh - Ashington,8,5.0,5.0,11
+1 122 c a,122,Drimnagh - Ashington,9,5.0,5.0,11
+1 122 c a,122,Drimnagh - Ashington,10,5.0,5.0,11
+1 122 c a,122,Drimnagh - Ashington,11,5.0,5.0,11
+1 122 c a,122,Drimnagh - Ashington,12,5.0,5.0,11
+1 122 c a,122,Drimnagh - Ashington,13,5.0,5.0,11
+1 122 c a,122,Drimnagh - Ashington,14,4.83,5.0,12
+1 122 c a,122,Drimnagh - Ashington,15,3.62,3.5,16
+1 122 c a,122,Drimnagh - Ashington,16,3.62,4.0,16
+1 122 c a,122,Drimnagh - Ashington,17,4.58,5.0,12
+1 122 c a,122,Drimnagh - Ashington,18,6.88,5.0,8
+1 122 c a,122,Drimnagh - Ashington,19,6.43,5.0,7
+1 122 c a,122,Drimnagh - Ashington,20,11.25,12.5,4
+1 122 c a,122,Drimnagh - Ashington,21,15.0,15.0,3
+1 122 c a,122,Drimnagh - Ashington,22,15.0,15.0,3
+1 122 c a,122,Drimnagh - Ashington,23,15.0,15.0,2
+1 13 c a,13,Grange Castle - Harristown,6,7.71,5.0,7
+1 13 c a,13,Grange Castle - Harristown,7,4.91,6.0,11
+1 13 c a,13,Grange Castle - Harristown,8,7.5,5.5,6
+1 13 c a,13,Grange Castle - Harristown,9,10.8,12.0,5
+1 13 c a,13,Grange Castle - Harristown,10,7.71,9.0,7
+1 13 c a,13,Grange Castle - Harristown,11,7.71,9.0,7
+1 13 c a,13,Grange Castle - Harristown,12,7.71,9.0,7
+1 13 c a,13,Grange Castle - Harristown,13,7.71,9.0,7
+1 13 c a,13,Grange Castle - Harristown,14,7.71,9.0,7
+1 13 c a,13,Grange Castle - Harristown,15,7.71,9.0,7
+1 13 c a,13,Grange Castle - Harristown,16,7.71,9.0,7
+1 13 c a,13,Grange Castle - Harristown,17,9.0,9.0,5
+1 13 c a,13,Grange Castle - Harristown,18,15.0,15.0,3
+1 13 c a,13,Grange Castle - Harristown,19,15.0,15.0,3
+1 13 c a,13,Grange Castle - Harristown,20,15.0,15.0,3
+1 13 c a,13,Grange Castle - Harristown,21,15.0,15.0,3
+1 13 c a,13,Grange Castle - Harristown,22,15.0,15.0,3
+1 13 c a,13,Grange Castle - Harristown,23,15.0,15.0,2
+1 130 c a,130,Talbot Street - Castle Avenue,6,13.75,10.0,4
+1 130 c a,130,Talbot Street - Castle Avenue,7,5.5,5.0,10
+1 130 c a,130,Talbot Street - Castle Avenue,8,5.0,5.0,11
+1 130 c a,130,Talbot Street - Castle Avenue,9,5.0,5.0,11
+1 130 c a,130,Talbot Street - Castle Avenue,10,4.58,4.5,12
+1 130 c a,130,Talbot Street - Castle Avenue,11,4.58,4.5,12
+1 130 c a,130,Talbot Street - Castle Avenue,12,4.5,5.0,12
+1 130 c a,130,Talbot Street - Castle Avenue,13,6.0,6.0,9
+1 130 c a,130,Talbot Street - Castle Avenue,14,6.0,6.0,9
+1 130 c a,130,Talbot Street - Castle Avenue,15,6.0,6.0,9
+1 130 c a,130,Talbot Street - Castle Avenue,16,4.83,3.0,12
+1 130 c a,130,Talbot Street - Castle Avenue,17,3.6,3.0,15
+1 130 c a,130,Talbot Street - Castle Avenue,18,3.86,2.0,14
+1 130 c a,130,Talbot Street - Castle Avenue,19,8.33,10.0,6
+1 130 c a,130,Talbot Street - Castle Avenue,20,7.14,5.0,7
+1 130 c a,130,Talbot Street - Castle Avenue,21,6.25,5.0,8
+1 130 c a,130,Talbot Street - Castle Avenue,22,6.88,5.0,8
+1 130 c a,130,Talbot Street - Castle Avenue,23,10.0,10.0,3
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),6,10.4,11.0,5
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),7,7.14,5.0,7
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),8,6.43,5.0,7
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),9,10.8,12.0,5
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),10,7.71,9.0,7
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),11,6.75,5.5,8
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),12,6.0,5.0,9
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),13,6.0,5.0,9
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),14,6.0,5.0,9
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),15,5.4,4.5,10
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),16,4.92,4.08,11
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),17,5.4,4.5,10
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),18,6.0,5.0,9
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),19,5.56,5.0,9
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),20,7.14,5.0,7
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),21,7.14,5.0,7
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),22,7.14,5.0,7
+1 14 c a,14,Dundrum Luas Stn - Ardlea Rd (Beaumont),23,7.5,7.5,4
+1 142 e a,142,Portmarnock - UCD (Belfield),7,11.25,10.0,4
+1 142 e a,142,Portmarnock - UCD (Belfield),16,15.0,15.0,1
+1 142 e a,142,Portmarnock - UCD (Belfield),17,30.0,30.0,1
+1 15 c a,15,Ballycullen Road - Clongriffin,0,30.0,30.0,1
+1 15 c a,15,Ballycullen Road - Clongriffin,1,30.0,30.0,1
+1 15 c a,15,Ballycullen Road - Clongriffin,2,30.0,30.0,1
+1 15 c a,15,Ballycullen Road - Clongriffin,3,30.0,30.0,1
+1 15 c a,15,Ballycullen Road - Clongriffin,4,29.93,29.93,1
+1 15 c a,15,Ballycullen Road - Clongriffin,5,30.0,30.0,1
+1 15 c a,15,Ballycullen Road - Clongriffin,6,6.38,5.0,8
+1 15 c a,15,Ballycullen Road - Clongriffin,7,3.05,2.0,19
+1 15 c a,15,Ballycullen Road - Clongriffin,8,3.18,3.0,17
+1 15 c a,15,Ballycullen Road - Clongriffin,9,5.56,5.0,9
+1 15 c a,15,Ballycullen Road - Clongriffin,10,7.14,5.0,7
+1 15 c a,15,Ballycullen Road - Clongriffin,11,7.13,5.0,7
+1 15 c a,15,Ballycullen Road - Clongriffin,12,7.14,5.0,7
+1 15 c a,15,Ballycullen Road - Clongriffin,13,7.14,5.0,7
+1 15 c a,15,Ballycullen Road - Clongriffin,14,7.12,5.0,7
+1 15 c a,15,Ballycullen Road - Clongriffin,15,7.14,5.0,7
+1 15 c a,15,Ballycullen Road - Clongriffin,16,6.11,5.0,9
+1 15 c a,15,Ballycullen Road - Clongriffin,17,7.13,5.0,7
+1 15 c a,15,Ballycullen Road - Clongriffin,18,7.13,5.0,7
+1 15 c a,15,Ballycullen Road - Clongriffin,19,15.0,15.0,3
+1 15 c a,15,Ballycullen Road - Clongriffin,20,15.0,15.0,3
+1 15 c a,15,Ballycullen Road - Clongriffin,21,15.0,15.0,3
+1 15 c a,15,Ballycullen Road - Clongriffin,22,15.0,15.0,3
+1 15 c a,15,Ballycullen Road - Clongriffin,23,15.0,15.0,3
+1 150 c a,150,Rossmore - Hawkins Street,6,8.75,7.5,4
+1 150 c a,150,Rossmore - Hawkins Street,7,11.0,10.0,5
+1 150 c a,150,Rossmore - Hawkins Street,8,7.86,10.0,7
+1 150 c a,150,Rossmore - Hawkins Street,9,10.0,10.0,5
+1 150 c a,150,Rossmore - Hawkins Street,10,7.14,5.0,7
+1 150 c a,150,Rossmore - Hawkins Street,11,6.11,5.0,9
+1 150 c a,150,Rossmore - Hawkins Street,12,6.88,5.0,8
+1 150 c a,150,Rossmore - Hawkins Street,13,6.88,5.0,8
+1 150 c a,150,Rossmore - Hawkins Street,14,6.88,5.0,8
+1 150 c a,150,Rossmore - Hawkins Street,15,6.88,5.0,8
+1 150 c a,150,Rossmore - Hawkins Street,16,6.88,5.0,8
+1 150 c a,150,Rossmore - Hawkins Street,17,6.88,5.0,8
+1 150 c a,150,Rossmore - Hawkins Street,18,6.25,5.0,8
+1 150 c a,150,Rossmore - Hawkins Street,19,6.43,5.0,7
+1 150 c a,150,Rossmore - Hawkins Street,20,11.0,10.0,5
+1 150 c a,150,Rossmore - Hawkins Street,21,10.0,10.0,5
+1 150 c a,150,Rossmore - Hawkins Street,22,10.0,10.0,5
+1 150 c a,150,Rossmore - Hawkins Street,23,15.0,15.0,2
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),6,12.5,15.0,4
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),7,10.0,10.0,5
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),8,8.33,10.0,6
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),9,10.0,10.0,5
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),10,10.0,10.0,5
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),11,10.0,10.0,5
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),12,10.0,10.0,5
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),13,8.33,10.0,6
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),14,10.0,10.0,5
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),15,10.0,10.0,5
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),16,10.0,10.0,5
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),17,10.0,10.0,5
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),18,10.0,10.0,5
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),19,15.0,15.0,2
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),20,30.0,30.0,1
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),21,30.0,30.0,1
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),22,30.0,30.0,1
+1 151 c a,151,Foxborough (Balgaddy Rd) - Docklands (East Rd),23,15.0,15.0,2
+1 15A c a,15A,Merrion Square - Limekiln Avenue,6,15.0,15.0,3
+1 15A c a,15A,Merrion Square - Limekiln Avenue,7,8.33,7.5,6
+1 15A c a,15A,Merrion Square - Limekiln Avenue,8,5.56,5.0,9
+1 15A c a,15A,Merrion Square - Limekiln Avenue,9,10.0,10.0,5
+1 15A c a,15A,Merrion Square - Limekiln Avenue,10,16.67,20.0,3
+1 15A c a,15A,Merrion Square - Limekiln Avenue,11,16.67,20.0,3
+1 15A c a,15A,Merrion Square - Limekiln Avenue,12,16.67,20.0,3
+1 15A c a,15A,Merrion Square - Limekiln Avenue,13,16.67,20.0,3
+1 15A c a,15A,Merrion Square - Limekiln Avenue,14,16.67,20.0,3
+1 15A c a,15A,Merrion Square - Limekiln Avenue,15,16.67,20.0,3
+1 15A c a,15A,Merrion Square - Limekiln Avenue,16,12.5,12.5,4
+1 15A c a,15A,Merrion Square - Limekiln Avenue,17,10.0,10.0,5
+1 15A c a,15A,Merrion Square - Limekiln Avenue,18,11.25,12.5,4
+1 15A c a,15A,Merrion Square - Limekiln Avenue,19,30.0,30.0,1
+1 15A c a,15A,Merrion Square - Limekiln Avenue,20,22.5,22.5,2
+1 15A c a,15A,Merrion Square - Limekiln Avenue,21,15.0,15.0,3
+1 15A c a,15A,Merrion Square - Limekiln Avenue,22,15.0,15.0,3
+1 15A c a,15A,Merrion Square - Limekiln Avenue,23,15.0,15.0,2
+1 15B c a,15B,Merrion Square - Stocking Avenue,6,8.83,8.0,6
+1 15B c a,15B,Merrion Square - Stocking Avenue,7,4.82,5.0,11
+1 15B c a,15B,Merrion Square - Stocking Avenue,8,7.5,7.5,6
+1 15B c a,15B,Merrion Square - Stocking Avenue,9,15.0,15.0,3
+1 15B c a,15B,Merrion Square - Stocking Avenue,10,15.0,15.0,3
+1 15B c a,15B,Merrion Square - Stocking Avenue,11,15.0,15.0,3
+1 15B c a,15B,Merrion Square - Stocking Avenue,12,9.0,10.0,5
+1 15B c a,15B,Merrion Square - Stocking Avenue,13,9.0,10.0,5
+1 15B c a,15B,Merrion Square - Stocking Avenue,14,9.0,10.0,5
+1 15B c a,15B,Merrion Square - Stocking Avenue,15,9.0,10.0,5
+1 15B c a,15B,Merrion Square - Stocking Avenue,16,9.0,10.0,5
+1 15B c a,15B,Merrion Square - Stocking Avenue,17,5.56,5.0,9
+1 15B c a,15B,Merrion Square - Stocking Avenue,18,6.43,5.0,7
+1 15B c a,15B,Merrion Square - Stocking Avenue,19,11.25,10.0,4
+1 15B c a,15B,Merrion Square - Stocking Avenue,20,11.25,10.0,4
+1 15B c a,15B,Merrion Square - Stocking Avenue,21,11.25,10.0,4
+1 15B c a,15B,Merrion Square - Stocking Avenue,22,11.25,10.0,4
+1 15B c a,15B,Merrion Square - Stocking Avenue,23,10.0,10.0,2
+1 16 c a,16,Ballinteer - Dublin Airport,5,15.0,15.0,1
+1 16 c a,16,Ballinteer - Dublin Airport,6,15.0,15.0,3
+1 16 c a,16,Ballinteer - Dublin Airport,7,6.5,6.0,8
+1 16 c a,16,Ballinteer - Dublin Airport,8,7.14,5.0,7
+1 16 c a,16,Ballinteer - Dublin Airport,9,4.91,5.0,11
+1 16 c a,16,Ballinteer - Dublin Airport,10,4.91,6.0,11
+1 16 c a,16,Ballinteer - Dublin Airport,11,4.91,6.0,11
+1 16 c a,16,Ballinteer - Dublin Airport,12,4.91,6.0,11
+1 16 c a,16,Ballinteer - Dublin Airport,13,4.91,6.0,11
+1 16 c a,16,Ballinteer - Dublin Airport,14,4.91,6.0,11
+1 16 c a,16,Ballinteer - Dublin Airport,15,4.5,5.0,12
+1 16 c a,16,Ballinteer - Dublin Airport,16,3.86,3.5,14
+1 16 c a,16,Ballinteer - Dublin Airport,17,4.91,6.0,11
+1 16 c a,16,Ballinteer - Dublin Airport,18,4.91,6.0,11
+1 16 c a,16,Ballinteer - Dublin Airport,19,11.25,12.0,4
+1 16 c a,16,Ballinteer - Dublin Airport,20,15.0,15.0,3
+1 16 c a,16,Ballinteer - Dublin Airport,21,15.0,15.0,3
+1 16 c a,16,Ballinteer - Dublin Airport,22,15.0,15.0,3
+1 16 c a,16,Ballinteer - Dublin Airport,23,15.0,15.0,2
+1 16D c a,16D,Airport - Beaumont Village - Ballinteer not,7,20.0,20.0,2
+1 16D c a,16D,Airport - Beaumont Village - Ballinteer not,8,20.0,20.0,2
+1 19 a,19,Parnell Square West - Dublin Airport,4,30.0,30.0,1
+1 19 a,19,Parnell Square West - Dublin Airport,5,10.0,10.0,3
+1 19 a,19,Parnell Square West - Dublin Airport,6,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,7,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,8,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,9,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,10,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,11,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,12,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,13,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,14,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,15,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,16,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,17,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,18,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,19,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,20,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,21,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,22,10.0,10.0,5
+1 19 a,19,Parnell Square West - Dublin Airport,23,10.0,10.0,3
+1 23 a,23,Merrion Square - Charlestown SC,5,15.0,15.0,2
+1 23 a,23,Merrion Square - Charlestown SC,6,7.14,5.0,7
+1 23 a,23,Merrion Square - Charlestown SC,7,7.14,5.0,7
+1 23 a,23,Merrion Square - Charlestown SC,8,7.14,5.0,7
+1 23 a,23,Merrion Square - Charlestown SC,9,9.17,10.0,6
+1 23 a,23,Merrion Square - Charlestown SC,10,6.11,5.0,9
+1 23 a,23,Merrion Square - Charlestown SC,11,6.11,5.0,9
+1 23 a,23,Merrion Square - Charlestown SC,12,6.11,5.0,9
+1 23 a,23,Merrion Square - Charlestown SC,13,6.11,5.0,9
+1 23 a,23,Merrion Square - Charlestown SC,14,6.11,5.0,9
+1 23 a,23,Merrion Square - Charlestown SC,15,6.11,5.0,9
+1 23 a,23,Merrion Square - Charlestown SC,16,6.11,5.0,9
+1 23 a,23,Merrion Square - Charlestown SC,17,6.11,5.0,9
+1 23 a,23,Merrion Square - Charlestown SC,18,6.11,5.0,9
+1 23 a,23,Merrion Square - Charlestown SC,19,6.11,5.0,9
+1 23 a,23,Merrion Square - Charlestown SC,20,7.14,5.0,7
+1 23 a,23,Merrion Square - Charlestown SC,21,7.14,5.0,7
+1 23 a,23,Merrion Square - Charlestown SC,22,7.14,5.0,7
+1 23 a,23,Merrion Square - Charlestown SC,23,10.0,5.0,4
+1 24 a,24,Merrion Square - Dublin Airport,3,30.0,30.0,1
+1 24 a,24,Merrion Square - Dublin Airport,4,13.33,5.0,3
+1 24 a,24,Merrion Square - Dublin Airport,5,7.14,5.0,7
+1 24 a,24,Merrion Square - Dublin Airport,6,6.88,5.0,8
+1 24 a,24,Merrion Square - Dublin Airport,7,7.86,10.0,7
+1 24 a,24,Merrion Square - Dublin Airport,8,10.0,10.0,5
+1 24 a,24,Merrion Square - Dublin Airport,9,10.0,10.0,5
+1 24 a,24,Merrion Square - Dublin Airport,10,10.0,10.0,5
+1 24 a,24,Merrion Square - Dublin Airport,11,10.0,10.0,5
+1 24 a,24,Merrion Square - Dublin Airport,12,10.0,10.0,5
+1 24 a,24,Merrion Square - Dublin Airport,13,10.0,10.0,5
+1 24 a,24,Merrion Square - Dublin Airport,14,10.0,10.0,5
+1 24 a,24,Merrion Square - Dublin Airport,15,10.0,10.0,5
+1 24 a,24,Merrion Square - Dublin Airport,16,10.0,10.0,5
+1 24 a,24,Merrion Square - Dublin Airport,17,10.0,10.0,5
+1 24 a,24,Merrion Square - Dublin Airport,18,10.0,10.0,5
+1 24 a,24,Merrion Square - Dublin Airport,19,9.17,10.0,6
+1 24 a,24,Merrion Square - Dublin Airport,20,7.86,10.0,7
+1 24 a,24,Merrion Square - Dublin Airport,21,7.86,10.0,7
+1 24 a,24,Merrion Square - Dublin Airport,22,6.67,5.0,6
+1 24 a,24,Merrion Square - Dublin Airport,23,13.33,10.0,3
+1 27 c a,27,Jobstown - Clare Hall,5,10.0,10.0,4
+1 27 c a,27,Jobstown - Clare Hall,6,7.14,5.0,7
+1 27 c a,27,Jobstown - Clare Hall,7,10.0,10.0,5
+1 27 c a,27,Jobstown - Clare Hall,8,10.0,10.0,5
+1 27 c a,27,Jobstown - Clare Hall,9,10.0,10.0,5
+1 27 c a,27,Jobstown - Clare Hall,10,10.0,10.0,5
+1 27 c a,27,Jobstown - Clare Hall,11,7.14,5.0,7
+1 27 c a,27,Jobstown - Clare Hall,12,7.14,5.0,7
+1 27 c a,27,Jobstown - Clare Hall,13,7.14,5.0,7
+1 27 c a,27,Jobstown - Clare Hall,14,7.14,5.0,7
+1 27 c a,27,Jobstown - Clare Hall,15,7.14,5.0,7
+1 27 c a,27,Jobstown - Clare Hall,16,7.14,5.0,7
+1 27 c a,27,Jobstown - Clare Hall,17,7.14,5.0,7
+1 27 c a,27,Jobstown - Clare Hall,18,7.14,5.0,7
+1 27 c a,27,Jobstown - Clare Hall,19,10.0,10.0,5
+1 27 c a,27,Jobstown - Clare Hall,20,10.0,10.0,5
+1 27 c a,27,Jobstown - Clare Hall,21,10.0,10.0,5
+1 27 c a,27,Jobstown - Clare Hall,22,10.0,10.0,5
+1 27 c a,27,Jobstown - Clare Hall,23,15.0,15.0,2
+1 27A c a,27A,Blunden Drive - Eden Quay,6,10.0,10.0,2
+1 27A c a,27A,Blunden Drive - Eden Quay,7,12.5,15.0,4
+1 27A c a,27A,Blunden Drive - Eden Quay,8,10.0,5.0,4
+1 27A c a,27A,Blunden Drive - Eden Quay,9,12.5,12.5,4
+1 27A c a,27A,Blunden Drive - Eden Quay,10,9.0,5.0,5
+1 27A c a,27A,Blunden Drive - Eden Quay,11,10.0,10.0,5
+1 27A c a,27A,Blunden Drive - Eden Quay,12,9.0,10.0,5
+1 27A c a,27A,Blunden Drive - Eden Quay,13,9.17,10.0,6
+1 27A c a,27A,Blunden Drive - Eden Quay,14,11.25,12.5,4
+1 27A c a,27A,Blunden Drive - Eden Quay,15,7.86,10.0,7
+1 27A c a,27A,Blunden Drive - Eden Quay,16,12.5,15.0,4
+1 27A c a,27A,Blunden Drive - Eden Quay,17,7.5,7.5,6
+1 27A c a,27A,Blunden Drive - Eden Quay,18,13.75,12.5,4
+1 27A c a,27A,Blunden Drive - Eden Quay,19,15.0,15.0,3
+1 27A c a,27A,Blunden Drive - Eden Quay,20,15.0,15.0,1
+1 27A c a,27A,Blunden Drive - Eden Quay,21,15.0,15.0,1
+1 27A c a,27A,Blunden Drive - Eden Quay,23,5.0,5.0,2
+1 27B c a,27B,Eden Quay - Harristown,6,7.5,7.5,2
+1 27B c a,27B,Eden Quay - Harristown,7,9.0,10.0,5
+1 27B c a,27B,Eden Quay - Harristown,8,9.0,10.0,5
+1 27B c a,27B,Eden Quay - Harristown,9,9.0,10.0,5
+1 27B c a,27B,Eden Quay - Harristown,10,13.33,10.0,3
+1 27B c a,27B,Eden Quay - Harristown,11,13.33,10.0,3
+1 27B c a,27B,Eden Quay - Harristown,12,13.33,10.0,3
+1 27B c a,27B,Eden Quay - Harristown,13,13.33,10.0,3
+1 27B c a,27B,Eden Quay - Harristown,14,13.33,10.0,3
+1 27B c a,27B,Eden Quay - Harristown,15,13.33,10.0,3
+1 27B c a,27B,Eden Quay - Harristown,16,9.0,10.0,5
+1 27B c a,27B,Eden Quay - Harristown,17,9.0,10.0,5
+1 27B c a,27B,Eden Quay - Harristown,18,9.0,10.0,5
+1 27B c a,27B,Eden Quay - Harristown,19,13.33,10.0,3
+1 27B c a,27B,Eden Quay - Harristown,20,30.0,30.0,1
+1 27B c a,27B,Eden Quay - Harristown,21,30.0,30.0,1
+1 27B c a,27B,Eden Quay - Harristown,22,30.0,30.0,1
+1 27B c a,27B,Eden Quay - Harristown,23,30.0,30.0,1
+1 33 c a,33,Balbriggan - Lower Abbey St,5,5.0,5.0,2
+1 33 c a,33,Balbriggan - Lower Abbey St,6,9.0,9.0,1
+1 33 c a,33,Balbriggan - Lower Abbey St,7,7.5,5.0,6
+1 33 c a,33,Balbriggan - Lower Abbey St,8,17.0,20.0,3
+1 33 c a,33,Balbriggan - Lower Abbey St,9,27.5,27.5,2
+1 33 c a,33,Balbriggan - Lower Abbey St,10,8.0,8.0,2
+1 33 c a,33,Balbriggan - Lower Abbey St,11,20.0,20.0,2
+1 33 c a,33,Balbriggan - Lower Abbey St,12,35.0,35.0,1
+1 33 c a,33,Balbriggan - Lower Abbey St,13,9.5,9.5,2
+1 33 c a,33,Balbriggan - Lower Abbey St,14,10.75,4.0,4
+1 33 c a,33,Balbriggan - Lower Abbey St,15,10.25,8.0,4
+1 33 c a,33,Balbriggan - Lower Abbey St,16,11.25,13.5,4
+1 33 c a,33,Balbriggan - Lower Abbey St,17,7.14,6.0,7
+1 33 c a,33,Balbriggan - Lower Abbey St,18,7.0,3.0,5
+1 33 c a,33,Balbriggan - Lower Abbey St,19,8.5,8.5,2
+1 33 c a,33,Balbriggan - Lower Abbey St,20,11.0,11.0,1
+1 33 c a,33,Balbriggan - Lower Abbey St,21,22.0,22.0,2
+1 33 c a,33,Balbriggan - Lower Abbey St,22,1.0,1.0,1
+1 33 c a,33,Balbriggan - Lower Abbey St,23,16.0,16.0,1
+1 33D c a,33D,Portrane - St Stephens Green,7,20.0,20.0,1
+1 33X c a,33X,Skerries - Custom House Quay / St Stephen Green,6,20.0,20.0,1
+1 33X c a,33X,Skerries - Custom House Quay / St Stephen Green,7,20.0,20.0,2
+1 33X c a,33X,Skerries - Custom House Quay / St Stephen Green,16,20.0,20.0,2
+1 33X c a,33X,Skerries - Custom House Quay / St Stephen Green,17,30.0,30.0,1
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,5,20.0,20.0,1
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,6,7.5,5.0,6
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,7,6.11,5.0,9
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,8,9.17,7.5,6
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,9,13.75,15.0,4
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,10,13.75,15.0,4
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,11,9.17,10.0,6
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,12,7.86,10.0,7
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,13,7.86,10.0,7
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,14,7.86,10.0,7
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,15,7.86,10.0,7
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,16,7.86,10.0,7
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,17,6.88,5.0,8
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,18,7.86,10.0,7
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,19,9.17,10.0,6
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,20,11.0,10.0,5
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,21,11.0,10.0,5
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,22,11.0,10.0,5
+1 37 c a,37,Blanchardstown Shopping Centre - Wilton Terrace,23,10.0,10.0,3
+1 38 c a,38,Damastown - Burlington Road,6,10.0,10.0,4
+1 38 c a,38,Damastown - Burlington Road,7,6.25,4.5,8
+1 38 c a,38,Damastown - Burlington Road,8,7.67,7.5,6
+1 38 c a,38,Damastown - Burlington Road,9,6.88,5.5,8
+1 38 c a,38,Damastown - Burlington Road,10,11.2,14.0,5
+1 38 c a,38,Damastown - Burlington Road,11,11.2,11.0,5
+1 38 c a,38,Damastown - Burlington Road,12,11.2,11.0,5
+1 38 c a,38,Damastown - Burlington Road,13,11.2,11.0,5
+1 38 c a,38,Damastown - Burlington Road,14,11.2,11.0,5
+1 38 c a,38,Damastown - Burlington Road,15,11.2,11.0,5
+1 38 c a,38,Damastown - Burlington Road,16,6.57,5.0,7
+1 38 c a,38,Damastown - Burlington Road,17,7.5,7.5,6
+1 38 c a,38,Damastown - Burlington Road,18,11.25,14.5,4
+1 38 c a,38,Damastown - Burlington Road,19,15.0,15.0,3
+1 38 c a,38,Damastown - Burlington Road,20,15.0,15.0,3
+1 38 c a,38,Damastown - Burlington Road,21,15.0,15.0,3
+1 38 c a,38,Damastown - Burlington Road,22,15.0,15.0,3
+1 38 c a,38,Damastown - Burlington Road,23,15.0,15.0,2
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,7,15.0,15.0,2
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,8,8.0,10.0,7
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,9,9.33,10.5,6
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,10,11.25,12.0,4
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,11,9.0,11.0,5
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,12,9.0,11.0,5
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,13,9.0,11.0,5
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,14,9.0,11.0,5
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,15,9.0,11.0,5
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,16,8.0,6.0,7
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,17,6.43,5.0,7
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,18,11.25,14.5,4
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,19,15.0,15.0,3
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,20,15.0,15.0,3
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,21,15.0,15.0,3
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,22,15.0,15.0,3
+1 38A c a,38A,Damastown via Navan Rd - Burlington Rd,23,15.0,15.0,2
+1 38B c a,38B,Damastown via Ballycoolin Ind Est - Burlington Rd,6,17.33,20.0,3
+1 38B c a,38B,Damastown via Ballycoolin Ind Est - Burlington Rd,7,11.2,10.0,5
+1 38B c a,38B,Damastown via Ballycoolin Ind Est - Burlington Rd,8,20.0,20.0,1
+1 39 c a,39,Ongar - Burlington Rd,6,8.33,7.5,6
+1 39 c a,39,Ongar - Burlington Rd,7,6.43,5.0,7
+1 39 c a,39,Ongar - Burlington Rd,8,6.25,5.0,8
+1 39 c a,39,Ongar - Burlington Rd,9,5.62,4.0,8
+1 39 c a,39,Ongar - Burlington Rd,10,5.62,3.0,8
+1 39 c a,39,Ongar - Burlington Rd,11,5.78,3.0,9
+1 39 c a,39,Ongar - Burlington Rd,12,6.5,6.0,8
+1 39 c a,39,Ongar - Burlington Rd,13,5.78,5.0,9
+1 39 c a,39,Ongar - Burlington Rd,14,5.78,5.0,9
+1 39 c a,39,Ongar - Burlington Rd,15,5.78,5.0,9
+1 39 c a,39,Ongar - Burlington Rd,16,5.78,5.0,9
+1 39 c a,39,Ongar - Burlington Rd,17,5.78,5.0,9
+1 39 c a,39,Ongar - Burlington Rd,18,5.78,5.0,9
+1 39 c a,39,Ongar - Burlington Rd,19,6.11,5.0,9
+1 39 c a,39,Ongar - Burlington Rd,20,6.11,5.0,9
+1 39 c a,39,Ongar - Burlington Rd,21,5.8,3.5,10
+1 39 c a,39,Ongar - Burlington Rd,22,6.44,3.0,9
+1 39 c a,39,Ongar - Burlington Rd,23,7.5,2.5,4
+1 39A c a,39A,Ongar - UCD Belfield,0,30.0,30.0,1
+1 39A c a,39A,Ongar - UCD Belfield,1,30.0,30.0,1
+1 39A c a,39A,Ongar - UCD Belfield,2,30.0,30.0,1
+1 39A c a,39A,Ongar - UCD Belfield,3,30.0,30.0,1
+1 39A c a,39A,Ongar - UCD Belfield,4,30.0,30.0,1
+1 39A c a,39A,Ongar - UCD Belfield,5,12.5,10.0,4
+1 39A c a,39A,Ongar - UCD Belfield,6,6.25,5.0,8
+1 39A c a,39A,Ongar - UCD Belfield,7,6.11,5.0,9
+1 39A c a,39A,Ongar - UCD Belfield,8,6.25,5.0,8
+1 39A c a,39A,Ongar - UCD Belfield,9,5.56,6.0,9
+1 39A c a,39A,Ongar - UCD Belfield,10,4.55,4.0,11
+1 39A c a,39A,Ongar - UCD Belfield,11,4.55,4.0,11
+1 39A c a,39A,Ongar - UCD Belfield,12,4.55,4.0,11
+1 39A c a,39A,Ongar - UCD Belfield,13,4.55,4.0,11
+1 39A c a,39A,Ongar - UCD Belfield,14,4.55,4.0,11
+1 39A c a,39A,Ongar - UCD Belfield,15,3.85,4.0,13
+1 39A c a,39A,Ongar - UCD Belfield,16,3.93,4.0,14
+1 39A c a,39A,Ongar - UCD Belfield,17,4.17,4.5,12
+1 39A c a,39A,Ongar - UCD Belfield,18,4.55,4.0,11
+1 39A c a,39A,Ongar - UCD Belfield,19,15.0,15.0,3
+1 39A c a,39A,Ongar - UCD Belfield,20,15.0,15.0,3
+1 39A c a,39A,Ongar - UCD Belfield,21,15.0,15.0,3
+1 39A c a,39A,Ongar - UCD Belfield,22,15.0,15.0,3
+1 39A c a,39A,Ongar - UCD Belfield,23,15.0,15.0,2
+1 39X c a,39X,Ongar - Burlington Road,7,25.0,25.0,1
+1 4 c a,4,Monkstown Avenue - Heuston Station,5,15.0,15.0,1
+1 4 c a,4,Monkstown Avenue - Heuston Station,6,15.0,15.0,3
+1 4 c a,4,Monkstown Avenue - Heuston Station,7,6.86,6.0,7
+1 4 c a,4,Monkstown Avenue - Heuston Station,8,6.86,6.0,7
+1 4 c a,4,Monkstown Avenue - Heuston Station,9,6.86,6.0,7
+1 4 c a,4,Monkstown Avenue - Heuston Station,10,6.86,6.0,7
+1 4 c a,4,Monkstown Avenue - Heuston Station,11,6.86,6.0,7
+1 4 c a,4,Monkstown Avenue - Heuston Station,12,6.86,6.0,7
+1 4 c a,4,Monkstown Avenue - Heuston Station,13,6.86,6.0,7
+1 4 c a,4,Monkstown Avenue - Heuston Station,14,6.86,6.0,7
+1 4 c a,4,Monkstown Avenue - Heuston Station,15,6.86,6.0,7
+1 4 c a,4,Monkstown Avenue - Heuston Station,16,6.86,6.0,7
+1 4 c a,4,Monkstown Avenue - Heuston Station,17,6.86,6.0,7
+1 4 c a,4,Monkstown Avenue - Heuston Station,18,6.86,6.0,7
+1 4 c a,4,Monkstown Avenue - Heuston Station,19,13.33,10.0,3
+1 4 c a,4,Monkstown Avenue - Heuston Station,20,13.33,10.0,3
+1 4 c a,4,Monkstown Avenue - Heuston Station,21,13.33,10.0,3
+1 4 c a,4,Monkstown Avenue - Heuston Station,22,13.33,10.0,3
+1 4 c a,4,Monkstown Avenue - Heuston Station,23,15.0,15.0,2
+1 40D c a,40D,Tyrrelstown - Parnell Street,6,7.5,7.5,4
+1 40D c a,40D,Tyrrelstown - Parnell Street,7,15.0,15.0,3
+1 40D c a,40D,Tyrrelstown - Parnell Street,8,12.5,15.0,4
+1 40D c a,40D,Tyrrelstown - Parnell Street,9,13.33,10.0,3
+1 40D c a,40D,Tyrrelstown - Parnell Street,10,10.0,10.0,5
+1 40D c a,40D,Tyrrelstown - Parnell Street,11,11.6,10.0,5
+1 40D c a,40D,Tyrrelstown - Parnell Street,12,16.67,10.0,3
+1 40D c a,40D,Tyrrelstown - Parnell Street,13,13.33,10.0,3
+1 40D c a,40D,Tyrrelstown - Parnell Street,14,13.33,10.0,3
+1 40D c a,40D,Tyrrelstown - Parnell Street,15,16.67,20.0,3
+1 40D c a,40D,Tyrrelstown - Parnell Street,16,9.0,10.0,5
+1 40D c a,40D,Tyrrelstown - Parnell Street,17,10.0,10.0,5
+1 40D c a,40D,Tyrrelstown - Parnell Street,18,9.0,10.0,5
+1 40D c a,40D,Tyrrelstown - Parnell Street,19,15.0,15.0,2
+1 40D c a,40D,Tyrrelstown - Parnell Street,20,30.0,30.0,1
+1 40D c a,40D,Tyrrelstown - Parnell Street,21,30.0,30.0,1
+1 40D c a,40D,Tyrrelstown - Parnell Street,22,30.0,30.0,1
+1 40D c a,40D,Tyrrelstown - Parnell Street,23,30.0,30.0,1
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,6,11.25,13.5,4
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,7,6.43,7.0,7
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,8,9.0,8.0,5
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,9,11.25,12.5,4
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,10,9.0,10.0,5
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,11,10.0,10.0,5
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,12,9.0,10.0,5
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,13,11.25,12.5,4
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,14,11.25,12.5,4
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,15,9.17,10.0,6
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,16,7.86,5.0,7
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,17,8.67,6.0,6
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,18,7.5,7.5,6
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,19,6.43,7.0,7
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,20,7.5,5.0,6
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,21,10.0,10.0,5
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,22,9.17,10.0,6
+1 40E c a,40E,Broombridge Luas - Tyrrelstown,23,30.0,30.0,1
+1 41 c a,41,Swords Manor - Lower Abbey Street,0,30.0,30.0,1
+1 41 c a,41,Swords Manor - Lower Abbey Street,1,30.0,30.0,1
+1 41 c a,41,Swords Manor - Lower Abbey Street,2,30.0,30.0,1
+1 41 c a,41,Swords Manor - Lower Abbey Street,3,30.0,30.0,1
+1 41 c a,41,Swords Manor - Lower Abbey Street,4,30.0,30.0,1
+1 41 c a,41,Swords Manor - Lower Abbey Street,5,16.67,10.0,3
+1 41 c a,41,Swords Manor - Lower Abbey Street,6,6.88,5.0,8
+1 41 c a,41,Swords Manor - Lower Abbey Street,7,7.14,5.0,7
+1 41 c a,41,Swords Manor - Lower Abbey Street,8,7.14,5.0,7
+1 41 c a,41,Swords Manor - Lower Abbey Street,9,8.33,7.5,6
+1 41 c a,41,Swords Manor - Lower Abbey Street,10,5.56,5.0,9
+1 41 c a,41,Swords Manor - Lower Abbey Street,11,5.0,5.0,11
+1 41 c a,41,Swords Manor - Lower Abbey Street,12,6.11,5.0,9
+1 41 c a,41,Swords Manor - Lower Abbey Street,13,6.11,5.0,9
+1 41 c a,41,Swords Manor - Lower Abbey Street,14,6.11,5.0,9
+1 41 c a,41,Swords Manor - Lower Abbey Street,15,6.11,5.0,9
+1 41 c a,41,Swords Manor - Lower Abbey Street,16,6.11,5.0,9
+1 41 c a,41,Swords Manor - Lower Abbey Street,17,6.11,5.0,9
+1 41 c a,41,Swords Manor - Lower Abbey Street,18,6.43,5.0,7
+1 41 c a,41,Swords Manor - Lower Abbey Street,19,9.0,10.0,5
+1 41 c a,41,Swords Manor - Lower Abbey Street,20,15.0,15.0,3
+1 41 c a,41,Swords Manor - Lower Abbey Street,21,15.0,15.0,3
+1 41 c a,41,Swords Manor - Lower Abbey Street,22,30.0,30.0,1
+1 41 c a,41,Swords Manor - Lower Abbey Street,23,30.0,30.0,1
+1 41B c a,41B,Rolestown - Lower Abbey Street,7,30.0,30.0,1
+1 41B c a,41B,Rolestown - Lower Abbey Street,11,10.0,10.0,2
+1 41B c a,41B,Rolestown - Lower Abbey Street,12,15.0,15.0,1
+1 41B c a,41B,Rolestown - Lower Abbey Street,18,17.5,17.5,2
+1 41B c a,41B,Rolestown - Lower Abbey Street,19,35.0,35.0,1
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,6,10.0,10.0,4
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,7,6.88,5.0,8
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,8,11.25,10.0,4
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,9,9.17,7.5,6
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,10,6.11,5.0,9
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,11,7.14,5.0,7
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,12,5.56,5.0,9
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,13,5.56,5.0,9
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,14,5.56,5.0,9
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,15,5.56,5.0,9
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,16,5.56,5.0,9
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,17,5.56,5.0,9
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,18,6.25,5.0,8
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,19,10.0,10.0,5
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,20,15.0,15.0,3
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,21,15.0,15.0,3
+1 41C c a,41C,Swords Manor Via River Valley - Lower Abbey St,22,30.0,30.0,1
+1 41D c a,41D,Swords Business Park - Lwr Abbey St,7,10.0,10.0,1
+1 41X c a,41X,Swords - UCD Belfield,7,6.0,5.0,5
+1 41X c a,41X,Swords - UCD Belfield,17,15.0,15.0,1
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,6,11.0,10.0,5
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,7,9.17,7.5,6
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,8,9.0,10.0,5
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,9,8.0,10.0,5
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,10,13.33,10.0,3
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,11,12.5,10.0,4
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,12,10.0,10.0,5
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,13,8.33,10.0,6
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,14,10.0,10.0,5
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,15,7.86,5.0,7
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,16,6.25,5.0,8
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,17,7.14,5.0,7
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,18,7.14,5.0,7
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,19,7.86,5.0,7
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,20,9.17,10.0,6
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,21,11.0,10.0,5
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,22,11.0,10.0,5
+1 42 c a,42,Sand's Hotel Portmarnock - Eden Quay,23,15.0,15.0,3
+1 43 c a,43,Talbot Street - Swords Business Park,6,9.17,7.5,6
+1 43 c a,43,Talbot Street - Swords Business Park,7,7.5,5.0,6
+1 43 c a,43,Talbot Street - Swords Business Park,8,9.17,7.5,6
+1 43 c a,43,Talbot Street - Swords Business Park,9,10.0,5.0,5
+1 43 c a,43,Talbot Street - Swords Business Park,10,7.5,5.0,4
+1 43 c a,43,Talbot Street - Swords Business Park,11,10.0,10.0,5
+1 43 c a,43,Talbot Street - Swords Business Park,12,11.67,10.0,3
+1 43 c a,43,Talbot Street - Swords Business Park,13,12.5,12.5,4
+1 43 c a,43,Talbot Street - Swords Business Park,14,10.0,10.0,5
+1 43 c a,43,Talbot Street - Swords Business Park,15,7.14,5.0,7
+1 43 c a,43,Talbot Street - Swords Business Park,16,8.33,7.5,6
+1 43 c a,43,Talbot Street - Swords Business Park,17,6.67,5.0,6
+1 43 c a,43,Talbot Street - Swords Business Park,18,10.0,5.0,3
+1 43 c a,43,Talbot Street - Swords Business Park,19,18.33,15.0,3
+1 43 c a,43,Talbot Street - Swords Business Park,20,18.33,15.0,3
+1 43 c a,43,Talbot Street - Swords Business Park,21,27.5,27.5,2
+1 43 c a,43,Talbot Street - Swords Business Park,22,45.0,45.0,1
+1 43 c a,43,Talbot Street - Swords Business Park,23,30.0,30.0,1
+1 44 c a,44,Enniskerry - DCU,6,10.0,10.0,1
+1 44 c a,44,Enniskerry - DCU,7,15.0,15.0,2
+1 44 c a,44,Enniskerry - DCU,8,15.0,15.0,2
+1 44 c a,44,Enniskerry - DCU,9,30.0,30.0,1
+1 44 c a,44,Enniskerry - DCU,10,15.0,15.0,2
+1 44 c a,44,Enniskerry - DCU,11,30.0,30.0,1
+1 44 c a,44,Enniskerry - DCU,12,30.0,30.0,1
+1 44 c a,44,Enniskerry - DCU,13,15.0,15.0,2
+1 44 c a,44,Enniskerry - DCU,14,30.0,30.0,1
+1 44 c a,44,Enniskerry - DCU,15,30.0,30.0,1
+1 44 c a,44,Enniskerry - DCU,16,30.0,30.0,1
+1 44 c a,44,Enniskerry - DCU,17,30.0,30.0,1
+1 44 c a,44,Enniskerry - DCU,18,22.5,22.5,2
+1 44 c a,44,Enniskerry - DCU,19,22.5,22.5,2
+1 44 c a,44,Enniskerry - DCU,21,30.0,30.0,1
+1 44 c a,44,Enniskerry - DCU,22,30.0,30.0,1
+1 44 c a,44,Enniskerry - DCU,23,30.0,30.0,1
+1 44B c a,44B,Glencullen - Dundrum Luas,7,30.0,30.0,1
+1 44B c a,44B,Glencullen - Dundrum Luas,8,35.0,35.0,1
+1 47 c a,47,Poolbeg Street - Belarmine,7,13.33,5.0,3
+1 47 c a,47,Poolbeg Street - Belarmine,8,25.0,25.0,1
+1 47 c a,47,Poolbeg Street - Belarmine,9,15.0,15.0,2
+1 47 c a,47,Poolbeg Street - Belarmine,10,22.5,22.5,2
+1 47 c a,47,Poolbeg Street - Belarmine,11,30.0,30.0,1
+1 47 c a,47,Poolbeg Street - Belarmine,12,30.0,30.0,1
+1 47 c a,47,Poolbeg Street - Belarmine,13,15.0,15.0,2
+1 47 c a,47,Poolbeg Street - Belarmine,14,30.0,30.0,1
+1 47 c a,47,Poolbeg Street - Belarmine,15,15.0,10.0,3
+1 47 c a,47,Poolbeg Street - Belarmine,16,30.0,30.0,1
+1 47 c a,47,Poolbeg Street - Belarmine,17,15.0,15.0,2
+1 47 c a,47,Poolbeg Street - Belarmine,18,15.0,15.0,3
+1 47 c a,47,Poolbeg Street - Belarmine,19,30.0,30.0,1
+1 47 c a,47,Poolbeg Street - Belarmine,20,15.0,15.0,1
+1 52 b,52,Intel - Ringsend,6,25.0,25.0,1
+1 52 b,52,Intel - Ringsend,7,13.5,13.5,2
+1 52 b,52,Intel - Ringsend,8,14.5,14.5,2
+1 52 b,52,Intel - Ringsend,9,19.33,25.0,3
+1 52 b,52,Intel - Ringsend,10,18.0,25.0,3
+1 52 b,52,Intel - Ringsend,11,18.0,25.0,3
+1 52 b,52,Intel - Ringsend,12,18.0,25.0,3
+1 52 b,52,Intel - Ringsend,13,18.0,25.0,3
+1 52 b,52,Intel - Ringsend,14,18.0,25.0,3
+1 52 b,52,Intel - Ringsend,15,18.67,25.0,3
+1 52 b,52,Intel - Ringsend,16,18.33,25.0,3
+1 52 b,52,Intel - Ringsend,17,15.0,15.0,2
+1 52 b,52,Intel - Ringsend,18,10.0,3.0,3
+1 52 b,52,Intel - Ringsend,19,9.33,2.0,3
+1 52 b,52,Intel - Ringsend,20,9.33,2.0,3
+1 52 b,52,Intel - Ringsend,21,13.5,13.5,2
+1 52 b,52,Intel - Ringsend,22,15.67,20.0,3
+1 53 c a,53,Dublin Ferryport - Talbot St,7,15.0,15.0,3
+1 53 c a,53,Dublin Ferryport - Talbot St,8,15.0,15.0,3
+1 53 c a,53,Dublin Ferryport - Talbot St,9,15.0,15.0,3
+1 53 c a,53,Dublin Ferryport - Talbot St,10,22.5,22.5,2
+1 53 c a,53,Dublin Ferryport - Talbot St,11,22.5,22.5,2
+1 53 c a,53,Dublin Ferryport - Talbot St,12,22.5,22.5,2
+1 53 c a,53,Dublin Ferryport - Talbot St,13,22.5,22.5,2
+1 53 c a,53,Dublin Ferryport - Talbot St,14,15.0,15.0,3
+1 53 c a,53,Dublin Ferryport - Talbot St,15,22.5,22.5,2
+1 53 c a,53,Dublin Ferryport - Talbot St,16,15.0,15.0,3
+1 53 c a,53,Dublin Ferryport - Talbot St,17,15.0,15.0,3
+1 53 c a,53,Dublin Ferryport - Talbot St,18,22.5,22.5,2
+1 53 c a,53,Dublin Ferryport - Talbot St,19,22.5,22.5,2
+1 56A c a,56A,Tallaght - Ringsend Rd,6,10.0,10.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,6,11.67,5.0,3
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,7,9.0,10.0,5
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,8,15.0,10.0,3
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,9,35.0,35.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,10,35.0,35.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,11,35.0,35.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,12,35.0,35.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,13,35.0,35.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,14,35.0,35.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,15,35.0,35.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,16,35.0,35.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,17,35.0,35.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,18,35.0,35.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,19,20.0,20.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,20,20.0,20.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,21,20.0,20.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,22,20.0,20.0,1
+1 6 c a,6,Howth Dart Stn - Lower Abbey Street,23,20.0,20.0,1
+1 60,60,Forbes Street - Tallaght,5,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,6,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,7,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,8,20.0,20.0,2
+1 60,60,Forbes Street - Tallaght,9,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,10,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,11,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,12,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,13,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,14,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,15,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,16,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,17,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,18,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,19,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,20,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,21,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,22,30.0,30.0,1
+1 60,60,Forbes Street - Tallaght,23,30.0,30.0,1
+1 65 e,65,Poolbeg Street - Blessington/Ballymore,0,5.0,5.0,1
+1 65 e,65,Poolbeg Street - Blessington/Ballymore,5,15.0,15.0,1
+1 65 e,65,Poolbeg Street - Blessington/Ballymore,6,10.0,5.0,3
+1 65 e,65,Poolbeg Street - Blessington/Ballymore,7,15.0,15.0,3
+1 65 e,65,Poolbeg Street - Blessington/Ballymore,8,30.0,30.0,1
+1 65 e,65,Poolbeg Street - Blessington/Ballymore,15,10.0,10.0,1
+1 65 e,65,Poolbeg Street - Blessington/Ballymore,17,30.0,30.0,1
+1 65 e,65,Poolbeg Street - Blessington/Ballymore,19,45.0,45.0,1
+1 65 e,65,Poolbeg Street - Blessington/Ballymore,20,30.0,30.0,1
+1 65 e,65,Poolbeg Street - Blessington/Ballymore,23,15.0,15.0,1
+1 65B c a,65B,Poolbeg Street - Citywest,6,10.0,10.0,2
+1 65B c a,65B,Poolbeg Street - Citywest,7,15.0,15.0,3
+1 65B c a,65B,Poolbeg Street - Citywest,8,30.0,30.0,1
+1 65B c a,65B,Poolbeg Street - Citywest,9,22.5,22.5,2
+1 65B c a,65B,Poolbeg Street - Citywest,10,30.0,30.0,1
+1 65B c a,65B,Poolbeg Street - Citywest,11,30.0,30.0,1
+1 65B c a,65B,Poolbeg Street - Citywest,12,30.0,30.0,1
+1 65B c a,65B,Poolbeg Street - Citywest,13,30.0,30.0,1
+1 65B c a,65B,Poolbeg Street - Citywest,14,30.0,30.0,1
+1 65B c a,65B,Poolbeg Street - Citywest,15,30.0,30.0,1
+1 65B c a,65B,Poolbeg Street - Citywest,16,25.0,25.0,2
+1 65B c a,65B,Poolbeg Street - Citywest,17,15.0,15.0,2
+1 65B c a,65B,Poolbeg Street - Citywest,18,30.0,30.0,1
+1 65B c a,65B,Poolbeg Street - Citywest,19,15.0,15.0,2
+1 65B c a,65B,Poolbeg Street - Citywest,21,15.0,15.0,1
+1 65B c a,65B,Poolbeg Street - Citywest,22,7.5,7.5,2
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,6,10.0,5.0,4
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,7,12.5,12.5,4
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,8,10.0,10.0,1
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,9,15.0,15.0,3
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,10,15.0,15.0,2
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,11,30.0,30.0,1
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,12,22.5,22.5,2
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,13,30.0,30.0,1
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,14,30.0,30.0,1
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,15,15.0,15.0,2
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,16,30.0,30.0,1
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,17,15.0,15.0,3
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,18,15.0,15.0,3
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,19,15.0,15.0,2
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,20,15.0,15.0,1
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,21,7.5,7.5,4
+1 68 c a,68,Newcastle / Greenogue Business Pk - Hawkins St,22,6.25,5.0,4
+1 69 c a,69,Rathcoole - Hawkins St,0,5.0,5.0,1
+1 69 c a,69,Rathcoole - Hawkins St,6,13.75,12.5,4
+1 69 c a,69,Rathcoole - Hawkins St,7,15.0,15.0,2
+1 69 c a,69,Rathcoole - Hawkins St,8,11.67,10.0,3
+1 69 c a,69,Rathcoole - Hawkins St,9,30.0,30.0,1
+1 69 c a,69,Rathcoole - Hawkins St,10,30.0,30.0,1
+1 69 c a,69,Rathcoole - Hawkins St,11,15.0,15.0,2
+1 69 c a,69,Rathcoole - Hawkins St,12,30.0,30.0,1
+1 69 c a,69,Rathcoole - Hawkins St,13,22.5,22.5,2
+1 69 c a,69,Rathcoole - Hawkins St,14,30.0,30.0,1
+1 69 c a,69,Rathcoole - Hawkins St,15,30.0,30.0,1
+1 69 c a,69,Rathcoole - Hawkins St,16,15.0,15.0,2
+1 69 c a,69,Rathcoole - Hawkins St,17,30.0,30.0,1
+1 69 c a,69,Rathcoole - Hawkins St,18,22.5,22.5,2
+1 69 c a,69,Rathcoole - Hawkins St,19,30.0,30.0,1
+1 69 c a,69,Rathcoole - Hawkins St,20,15.0,15.0,2
+1 69 c a,69,Rathcoole - Hawkins St,21,7.5,5.0,4
+1 69 c a,69,Rathcoole - Hawkins St,22,7.5,7.5,2
+1 69 c a,69,Rathcoole - Hawkins St,23,5.0,5.0,1
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,6,15.0,15.0,3
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,7,10.0,10.0,5
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,8,11.25,12.5,4
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,9,8.33,7.5,6
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,10,11.25,12.5,4
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,11,9.0,10.0,5
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,12,9.0,10.0,5
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,13,9.0,10.0,5
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,14,8.33,7.5,6
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,15,9.0,10.0,5
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,16,9.0,10.0,5
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,17,7.5,7.5,6
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,18,10.0,10.0,5
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,19,11.25,12.5,4
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,20,7.14,5.0,7
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,21,9.0,10.0,5
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,22,7.14,5.0,7
+1 7 c a,7,Brides Glen Luas - Mountjoy Square,23,15.0,15.0,2
+1 70 c a,70,Dunboyne - Burlington Rd,6,13.33,10.0,3
+1 70 c a,70,Dunboyne - Burlington Rd,7,10.0,10.0,5
+1 70 c a,70,Dunboyne - Burlington Rd,8,11.67,15.0,3
+1 70 c a,70,Dunboyne - Burlington Rd,9,15.0,15.0,2
+1 70 c a,70,Dunboyne - Burlington Rd,10,16.67,20.0,3
+1 70 c a,70,Dunboyne - Burlington Rd,11,16.67,20.0,3
+1 70 c a,70,Dunboyne - Burlington Rd,12,16.67,20.0,3
+1 70 c a,70,Dunboyne - Burlington Rd,13,16.67,20.0,3
+1 70 c a,70,Dunboyne - Burlington Rd,14,13.33,10.0,3
+1 70 c a,70,Dunboyne - Burlington Rd,15,13.33,10.0,3
+1 70 c a,70,Dunboyne - Burlington Rd,16,12.5,12.5,4
+1 70 c a,70,Dunboyne - Burlington Rd,17,10.0,10.0,5
+1 70 c a,70,Dunboyne - Burlington Rd,18,8.75,10.0,4
+1 70 c a,70,Dunboyne - Burlington Rd,19,8.75,7.5,4
+1 70 c a,70,Dunboyne - Burlington Rd,20,15.0,15.0,2
+1 70 c a,70,Dunboyne - Burlington Rd,21,12.5,10.0,4
+1 70 c a,70,Dunboyne - Burlington Rd,22,16.67,20.0,3
+1 70 c a,70,Dunboyne - Burlington Rd,23,15.0,15.0,2
+1 74,74,Dundrum Luas - Eden Quay,6,15.0,15.0,2
+1 74,74,Dundrum Luas - Eden Quay,7,15.0,15.0,2
+1 74,74,Dundrum Luas - Eden Quay,8,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,9,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,10,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,11,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,12,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,13,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,14,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,15,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,16,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,17,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,18,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,19,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,20,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,21,30.0,30.0,1
+1 74,74,Dundrum Luas - Eden Quay,22,30.0,30.0,1
+1 77A c a,77A,Citywest - Ringsend,5,15.0,15.0,1
+1 77A c a,77A,Citywest - Ringsend,6,12.5,10.0,4
+1 77A c a,77A,Citywest - Ringsend,7,12.5,10.0,4
+1 77A c a,77A,Citywest - Ringsend,8,10.0,10.0,5
+1 77A c a,77A,Citywest - Ringsend,9,10.0,10.0,5
+1 77A c a,77A,Citywest - Ringsend,10,10.0,10.0,5
+1 77A c a,77A,Citywest - Ringsend,11,10.0,10.0,5
+1 77A c a,77A,Citywest - Ringsend,12,10.0,10.0,5
+1 77A c a,77A,Citywest - Ringsend,13,10.0,10.0,5
+1 77A c a,77A,Citywest - Ringsend,14,10.0,10.0,5
+1 77A c a,77A,Citywest - Ringsend,15,9.17,10.0,6
+1 77A c a,77A,Citywest - Ringsend,16,7.86,10.0,7
+1 77A c a,77A,Citywest - Ringsend,17,6.11,5.0,9
+1 77A c a,77A,Citywest - Ringsend,18,10.0,10.0,5
+1 77A c a,77A,Citywest - Ringsend,19,12.5,10.0,4
+1 77A c a,77A,Citywest - Ringsend,20,16.67,20.0,3
+1 77A c a,77A,Citywest - Ringsend,21,16.67,20.0,3
+1 77A c a,77A,Citywest - Ringsend,22,16.67,20.0,3
+1 77A c a,77A,Citywest - Ringsend,23,10.0,5.0,3
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,6,15.0,15.0,3
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,7,11.25,12.5,4
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,8,8.33,7.5,6
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,9,10.0,10.0,5
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,10,8.33,7.5,6
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,11,9.0,5.0,5
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,12,11.25,12.5,4
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,13,9.0,10.0,5
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,14,9.0,10.0,5
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,15,9.0,10.0,5
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,16,8.33,7.5,6
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,17,11.25,12.5,4
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,18,11.25,12.5,4
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,19,7.86,5.0,7
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,20,7.5,5.0,6
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,21,7.14,5.0,7
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,22,9.0,10.0,5
+1 7A c a,7A,Loughlinstown - Mountjoy Sq,23,10.0,10.0,3
+1 7B c a,7B,Shankill - Mountjoy Square,7,15.0,15.0,2
+1 7B c a,7B,Shankill - Mountjoy Square,17,10.0,10.0,3
+1 7E a,7E,Mountjoy Square - Dalkey,5,25.0,25.0,1
+1 80 a,80,Liffey Valley SC - Palmerston Park,5,30.0,30.0,1
+1 80 a,80,Liffey Valley SC - Palmerston Park,6,7.14,5.0,7
+1 80 a,80,Liffey Valley SC - Palmerston Park,7,10.0,10.0,5
+1 80 a,80,Liffey Valley SC - Palmerston Park,8,10.0,10.0,5
+1 80 a,80,Liffey Valley SC - Palmerston Park,9,15.0,15.0,3
+1 80 a,80,Liffey Valley SC - Palmerston Park,10,9.0,10.0,5
+1 80 a,80,Liffey Valley SC - Palmerston Park,11,9.0,10.0,5
+1 80 a,80,Liffey Valley SC - Palmerston Park,12,9.0,10.0,5
+1 80 a,80,Liffey Valley SC - Palmerston Park,13,9.0,10.0,5
+1 80 a,80,Liffey Valley SC - Palmerston Park,14,9.0,10.0,5
+1 80 a,80,Liffey Valley SC - Palmerston Park,15,7.14,5.0,7
+1 80 a,80,Liffey Valley SC - Palmerston Park,16,7.14,5.0,7
+1 80 a,80,Liffey Valley SC - Palmerston Park,17,7.14,5.0,7
+1 80 a,80,Liffey Valley SC - Palmerston Park,18,9.0,10.0,5
+1 80 a,80,Liffey Valley SC - Palmerston Park,19,9.0,10.0,5
+1 80 a,80,Liffey Valley SC - Palmerston Park,20,9.0,10.0,5
+1 80 a,80,Liffey Valley SC - Palmerston Park,21,9.0,10.0,5
+1 80 a,80,Liffey Valley SC - Palmerston Park,22,9.0,10.0,5
+1 80 a,80,Liffey Valley SC - Palmerston Park,23,30.0,30.0,1
+1 82 a,82,Irishtown - Kiltipper,6,9.0,10.0,5
+1 82 a,82,Irishtown - Kiltipper,7,9.0,10.0,5
+1 82 a,82,Irishtown - Kiltipper,8,9.0,10.0,5
+1 82 a,82,Irishtown - Kiltipper,9,20.0,20.0,2
+1 82 a,82,Irishtown - Kiltipper,10,20.0,20.0,2
+1 82 a,82,Irishtown - Kiltipper,11,20.0,20.0,2
+1 82 a,82,Irishtown - Kiltipper,12,20.0,20.0,2
+1 82 a,82,Irishtown - Kiltipper,13,20.0,20.0,2
+1 82 a,82,Irishtown - Kiltipper,14,20.0,20.0,2
+1 82 a,82,Irishtown - Kiltipper,15,20.0,20.0,2
+1 82 a,82,Irishtown - Kiltipper,16,9.0,10.0,5
+1 82 a,82,Irishtown - Kiltipper,17,9.0,10.0,5
+1 82 a,82,Irishtown - Kiltipper,18,9.0,10.0,5
+1 82 a,82,Irishtown - Kiltipper,19,20.0,20.0,2
+1 82 a,82,Irishtown - Kiltipper,20,20.0,20.0,2
+1 82 a,82,Irishtown - Kiltipper,21,20.0,20.0,2
+1 82 a,82,Irishtown - Kiltipper,22,20.0,20.0,2
+1 82 a,82,Irishtown - Kiltipper,23,30.0,30.0,1
+1 99 a,99,Phoenix Park - Phoenix Park,9,30.0,30.0,1
+1 99 a,99,Phoenix Park - Phoenix Park,10,30.0,30.0,1
+1 99 a,99,Phoenix Park - Phoenix Park,11,30.0,30.0,1
+1 99 a,99,Phoenix Park - Phoenix Park,12,30.0,30.0,1
+1 99 a,99,Phoenix Park - Phoenix Park,13,30.0,30.0,1
+1 99 a,99,Phoenix Park - Phoenix Park,14,30.0,30.0,1
+1 99 a,99,Phoenix Park - Phoenix Park,15,30.0,30.0,1
+1 99 a,99,Phoenix Park - Phoenix Park,16,30.0,30.0,1
+1 99 a,99,Phoenix Park - Phoenix Park,17,30.0,30.0,1
+1 C1 c,C1,Adamstown Stn - Sandymount,0,5.0,1.0,3
+1 C1 c,C1,Adamstown Stn - Sandymount,1,14.75,7.0,4
+1 C1 c,C1,Adamstown Stn - Sandymount,2,14.75,7.0,4
+1 C1 c,C1,Adamstown Stn - Sandymount,3,29.0,29.0,2
+1 C1 c,C1,Adamstown Stn - Sandymount,4,6.0,6.0,2
+1 C1 c,C1,Adamstown Stn - Sandymount,5,7.86,1.0,7
+1 C1 c,C1,Adamstown Stn - Sandymount,6,5.0,5.0,11
+1 C1 c,C1,Adamstown Stn - Sandymount,7,2.94,3.0,16
+1 C1 c,C1,Adamstown Stn - Sandymount,8,4.54,3.0,13
+1 C1 c,C1,Adamstown Stn - Sandymount,9,4.0,3.0,11
+1 C1 c,C1,Adamstown Stn - Sandymount,10,4.27,3.0,11
+1 C1 c,C1,Adamstown Stn - Sandymount,11,4.27,4.0,11
+1 C1 c,C1,Adamstown Stn - Sandymount,12,4.45,4.0,11
+1 C1 c,C1,Adamstown Stn - Sandymount,13,4.45,4.0,11
+1 C1 c,C1,Adamstown Stn - Sandymount,14,4.45,5.0,11
+1 C1 c,C1,Adamstown Stn - Sandymount,15,4.58,3.5,12
+1 C1 c,C1,Adamstown Stn - Sandymount,16,3.77,3.0,13
+1 C1 c,C1,Adamstown Stn - Sandymount,17,4.07,3.0,14
+1 C1 c,C1,Adamstown Stn - Sandymount,18,3.69,2.0,13
+1 C1 c,C1,Adamstown Stn - Sandymount,19,3.91,2.0,11
+1 C1 c,C1,Adamstown Stn - Sandymount,20,4.7,3.5,10
+1 C1 c,C1,Adamstown Stn - Sandymount,21,5.75,5.0,8
+1 C1 c,C1,Adamstown Stn - Sandymount,22,7.67,4.0,6
+1 C1 c,C1,Adamstown Stn - Sandymount,23,5.33,2.0,3
+1 C2 c,C2,Adamstown Stn - Sandymount,0,8.5,8.5,2
+1 C2 c,C2,Adamstown Stn - Sandymount,1,5.33,1.0,3
+1 C2 c,C2,Adamstown Stn - Sandymount,2,5.33,1.0,3
+1 C2 c,C2,Adamstown Stn - Sandymount,3,5.33,1.0,3
+1 C2 c,C2,Adamstown Stn - Sandymount,4,5.0,3.0,3
+1 C2 c,C2,Adamstown Stn - Sandymount,5,8.0,10.0,5
+1 C2 c,C2,Adamstown Stn - Sandymount,6,3.93,4.0,15
+1 C2 c,C2,Adamstown Stn - Sandymount,7,3.5,3.5,16
+1 C2 c,C2,Adamstown Stn - Sandymount,8,4.46,3.0,13
+1 C2 c,C2,Adamstown Stn - Sandymount,9,5.0,5.0,11
+1 C2 c,C2,Adamstown Stn - Sandymount,10,5.09,4.0,11
+1 C2 c,C2,Adamstown Stn - Sandymount,11,4.83,4.5,12
+1 C2 c,C2,Adamstown Stn - Sandymount,12,4.92,5.0,12
+1 C2 c,C2,Adamstown Stn - Sandymount,13,5.3,5.0,10
+1 C2 c,C2,Adamstown Stn - Sandymount,14,5.18,5.0,11
+1 C2 c,C2,Adamstown Stn - Sandymount,15,4.14,3.0,14
+1 C2 c,C2,Adamstown Stn - Sandymount,16,4.15,3.0,13
+1 C2 c,C2,Adamstown Stn - Sandymount,17,4.0,3.5,14
+1 C2 c,C2,Adamstown Stn - Sandymount,18,3.67,2.0,15
+1 C2 c,C2,Adamstown Stn - Sandymount,19,4.67,2.5,12
+1 C2 c,C2,Adamstown Stn - Sandymount,20,5.6,5.0,10
+1 C2 c,C2,Adamstown Stn - Sandymount,21,5.4,4.5,10
+1 C2 c,C2,Adamstown Stn - Sandymount,22,7.5,4.0,4
+1 C2 c,C2,Adamstown Stn - Sandymount,23,6.0,2.0,3
+1 C3 c,C3,Maynooth - Ringsend,4,1.5,1.5,2
+1 C3 c,C3,Maynooth - Ringsend,5,4.83,3.5,6
+1 C3 c,C3,Maynooth - Ringsend,6,5.62,4.0,8
+1 C3 c,C3,Maynooth - Ringsend,7,5.27,4.0,11
+1 C3 c,C3,Maynooth - Ringsend,8,6.22,4.0,9
+1 C3 c,C3,Maynooth - Ringsend,9,7.38,3.0,8
+1 C3 c,C3,Maynooth - Ringsend,10,5.9,2.5,10
+1 C3 c,C3,Maynooth - Ringsend,11,5.18,1.0,11
+1 C3 c,C3,Maynooth - Ringsend,12,5.36,1.0,11
+1 C3 c,C3,Maynooth - Ringsend,13,5.36,2.0,11
+1 C3 c,C3,Maynooth - Ringsend,14,4.92,4.5,12
+1 C3 c,C3,Maynooth - Ringsend,15,4.82,5.0,11
+1 C3 c,C3,Maynooth - Ringsend,16,4.9,4.5,10
+1 C3 c,C3,Maynooth - Ringsend,17,6.44,3.0,9
+1 C3 c,C3,Maynooth - Ringsend,18,7.38,5.0,8
+1 C3 c,C3,Maynooth - Ringsend,19,4.83,1.0,12
+1 C3 c,C3,Maynooth - Ringsend,20,6.22,2.0,9
+1 C3 c,C3,Maynooth - Ringsend,21,6.44,4.0,9
+1 C3 c,C3,Maynooth - Ringsend,22,5.0,4.0,7
+1 C3 c,C3,Maynooth - Ringsend,23,2.0,2.0,1
+1 C4 c,C4,Maynooth - Ringsend,5,6.29,2.0,7
+1 C4 c,C4,Maynooth - Ringsend,6,5.0,5.0,11
+1 C4 c,C4,Maynooth - Ringsend,7,4.36,2.0,11
+1 C4 c,C4,Maynooth - Ringsend,8,5.0,2.5,10
+1 C4 c,C4,Maynooth - Ringsend,9,3.5,1.0,10
+1 C4 c,C4,Maynooth - Ringsend,10,4.0,2.5,10
+1 C4 c,C4,Maynooth - Ringsend,11,3.8,2.0,10
+1 C4 c,C4,Maynooth - Ringsend,12,3.55,1.0,11
+1 C4 c,C4,Maynooth - Ringsend,13,4.88,2.5,8
+1 C4 c,C4,Maynooth - Ringsend,14,3.64,2.0,11
+1 C4 c,C4,Maynooth - Ringsend,15,4.09,4.0,11
+1 C4 c,C4,Maynooth - Ringsend,16,7.25,5.5,8
+1 C4 c,C4,Maynooth - Ringsend,17,7.25,5.0,8
+1 C4 c,C4,Maynooth - Ringsend,18,5.1,2.5,10
+1 C4 c,C4,Maynooth - Ringsend,19,6.38,3.5,8
+1 C4 c,C4,Maynooth - Ringsend,20,5.57,2.0,7
+1 C4 c,C4,Maynooth - Ringsend,21,4.4,2.0,10
+1 C4 c,C4,Maynooth - Ringsend,22,3.0,2.0,4
+1 C4 c,C4,Maynooth - Ringsend,23,1.25,1.0,4
+1 C5 d,C5,Maynooth - Ringsend Night Service,0,3.0,3.0,3
+1 C5 d,C5,Maynooth - Ringsend Night Service,1,2.25,2.0,4
+1 C5 d,C5,Maynooth - Ringsend Night Service,2,2.25,2.0,4
+1 C5 d,C5,Maynooth - Ringsend Night Service,3,3.0,2.0,3
+1 C5 d,C5,Maynooth - Ringsend Night Service,4,5.0,5.0,1
+1 C5 d,C5,Maynooth - Ringsend Night Service,23,1.5,1.5,2
+1 C6 c,C6,Maynooth - Celbridge - Ringsend Night Service,0,1.75,1.0,4
+1 C6 c,C6,Maynooth - Celbridge - Ringsend Night Service,1,2.0,2.0,3
+1 C6 c,C6,Maynooth - Celbridge - Ringsend Night Service,2,2.0,2.0,3
+1 C6 c,C6,Maynooth - Celbridge - Ringsend Night Service,3,2.0,2.0,3
+1 C6 c,C6,Maynooth - Celbridge - Ringsend Night Service,4,1.0,1.0,3
+1 E1 a,E1,Ballywaltrim - Northwood,0,20.0,20.0,1
+1 E1 a,E1,Ballywaltrim - Northwood,1,20.0,20.0,1
+1 E1 a,E1,Ballywaltrim - Northwood,2,20.0,20.0,1
+1 E1 a,E1,Ballywaltrim - Northwood,3,20.0,20.0,1
+1 E1 a,E1,Ballywaltrim - Northwood,4,20.0,20.0,1
+1 E1 a,E1,Ballywaltrim - Northwood,5,8.0,10.0,5
+1 E1 a,E1,Ballywaltrim - Northwood,6,4.46,5.0,13
+1 E1 a,E1,Ballywaltrim - Northwood,7,2.32,2.0,25
+1 E1 a,E1,Ballywaltrim - Northwood,8,3.29,3.0,17
+1 E1 a,E1,Ballywaltrim - Northwood,9,5.0,5.0,11
+1 E1 a,E1,Ballywaltrim - Northwood,10,5.0,5.0,11
+1 E1 a,E1,Ballywaltrim - Northwood,11,5.0,5.0,11
+1 E1 a,E1,Ballywaltrim - Northwood,12,5.0,5.0,11
+1 E1 a,E1,Ballywaltrim - Northwood,13,4.58,5.0,12
+1 E1 a,E1,Ballywaltrim - Northwood,14,3.44,3.0,16
+1 E1 a,E1,Ballywaltrim - Northwood,15,2.95,3.0,20
+1 E1 a,E1,Ballywaltrim - Northwood,16,3.05,3.0,19
+1 E1 a,E1,Ballywaltrim - Northwood,17,3.93,4.0,14
+1 E1 a,E1,Ballywaltrim - Northwood,18,5.0,5.0,11
+1 E1 a,E1,Ballywaltrim - Northwood,19,5.0,5.0,10
+1 E1 a,E1,Ballywaltrim - Northwood,20,5.56,5.0,9
+1 E1 a,E1,Ballywaltrim - Northwood,21,5.56,5.0,9
+1 E1 a,E1,Ballywaltrim - Northwood,22,6.25,5.0,8
+1 E1 a,E1,Ballywaltrim - Northwood,23,20.0,20.0,2
+1 E2 a,E2,Dun Laoghaire - Harristown,0,5.0,5.0,1
+1 E2 a,E2,Dun Laoghaire - Harristown,1,5.0,5.0,1
+1 E2 a,E2,Dun Laoghaire - Harristown,2,5.0,5.0,1
+1 E2 a,E2,Dun Laoghaire - Harristown,3,5.0,5.0,1
+1 E2 a,E2,Dun Laoghaire - Harristown,4,5.0,5.0,1
+1 E2 a,E2,Dun Laoghaire - Harristown,5,4.09,5.0,11
+1 E2 a,E2,Dun Laoghaire - Harristown,6,2.57,2.0,23
+1 E2 a,E2,Dun Laoghaire - Harristown,7,2.11,2.0,27
+1 E2 a,E2,Dun Laoghaire - Harristown,8,2.94,2.0,18
+1 E2 a,E2,Dun Laoghaire - Harristown,9,3.35,3.0,17
+1 E2 a,E2,Dun Laoghaire - Harristown,10,3.0,3.0,19
+1 E2 a,E2,Dun Laoghaire - Harristown,11,3.56,3.0,16
+1 E2 a,E2,Dun Laoghaire - Harristown,12,3.8,5.0,15
+1 E2 a,E2,Dun Laoghaire - Harristown,13,3.17,3.0,18
+1 E2 a,E2,Dun Laoghaire - Harristown,14,2.71,3.0,21
+1 E2 a,E2,Dun Laoghaire - Harristown,15,3.8,3.0,15
+1 E2 a,E2,Dun Laoghaire - Harristown,16,2.38,2.0,24
+1 E2 a,E2,Dun Laoghaire - Harristown,17,3.35,3.0,17
+1 E2 a,E2,Dun Laoghaire - Harristown,18,3.93,4.0,14
+1 E2 a,E2,Dun Laoghaire - Harristown,19,3.67,3.0,15
+1 E2 a,E2,Dun Laoghaire - Harristown,20,3.67,3.0,15
+1 E2 a,E2,Dun Laoghaire - Harristown,21,3.67,3.0,15
+1 E2 a,E2,Dun Laoghaire - Harristown,22,4.17,4.0,12
+1 E2 a,E2,Dun Laoghaire - Harristown,23,8.33,5.0,3
+1 F1 a,F1,The Square Tallaght - IKEA,0,5.0,5.0,3
+1 F1 a,F1,The Square Tallaght - IKEA,1,5.0,5.0,3
+1 F1 a,F1,The Square Tallaght - IKEA,2,5.0,5.0,3
+1 F1 a,F1,The Square Tallaght - IKEA,3,5.0,5.0,3
+1 F1 a,F1,The Square Tallaght - IKEA,4,10.0,10.0,2
+1 F1 a,F1,The Square Tallaght - IKEA,5,8.0,4.0,7
+1 F1 a,F1,The Square Tallaght - IKEA,6,4.23,4.0,13
+1 F1 a,F1,The Square Tallaght - IKEA,7,2.95,3.0,19
+1 F1 a,F1,The Square Tallaght - IKEA,8,3.6,4.0,15
+1 F1 a,F1,The Square Tallaght - IKEA,9,4.58,5.0,12
+1 F1 a,F1,The Square Tallaght - IKEA,10,4.15,4.0,13
+1 F1 a,F1,The Square Tallaght - IKEA,11,4.23,4.0,13
+1 F1 a,F1,The Square Tallaght - IKEA,12,4.23,4.0,13
+1 F1 a,F1,The Square Tallaght - IKEA,13,4.58,4.0,12
+1 F1 a,F1,The Square Tallaght - IKEA,14,6.11,5.0,9
+1 F1 a,F1,The Square Tallaght - IKEA,15,4.23,3.0,13
+1 F1 a,F1,The Square Tallaght - IKEA,16,3.25,3.0,16
+1 F1 a,F1,The Square Tallaght - IKEA,17,3.25,3.5,16
+1 F1 a,F1,The Square Tallaght - IKEA,18,3.64,4.0,14
+1 F1 a,F1,The Square Tallaght - IKEA,19,3.92,4.0,13
+1 F1 a,F1,The Square Tallaght - IKEA,20,3.85,4.0,13
+1 F1 a,F1,The Square Tallaght - IKEA,21,3.4,4.0,15
+1 F1 a,F1,The Square Tallaght - IKEA,22,4.17,5.0,12
+1 F1 a,F1,The Square Tallaght - IKEA,23,5.0,5.0,7
+1 F2 a,F2,Charlestown SC - Rossmore,0,5.0,5.0,2
+1 F2 a,F2,Charlestown SC - Rossmore,1,5.0,5.0,2
+1 F2 a,F2,Charlestown SC - Rossmore,2,5.0,5.0,2
+1 F2 a,F2,Charlestown SC - Rossmore,3,5.0,5.0,2
+1 F2 a,F2,Charlestown SC - Rossmore,4,5.0,5.0,2
+1 F2 a,F2,Charlestown SC - Rossmore,5,7.57,5.0,7
+1 F2 a,F2,Charlestown SC - Rossmore,6,5.3,5.0,10
+1 F2 a,F2,Charlestown SC - Rossmore,7,5.0,5.0,11
+1 F2 a,F2,Charlestown SC - Rossmore,8,5.0,4.0,10
+1 F2 a,F2,Charlestown SC - Rossmore,9,6.44,5.0,9
+1 F2 a,F2,Charlestown SC - Rossmore,10,4.08,3.0,13
+1 F2 a,F2,Charlestown SC - Rossmore,11,4.08,3.0,13
+1 F2 a,F2,Charlestown SC - Rossmore,12,4.08,3.0,13
+1 F2 a,F2,Charlestown SC - Rossmore,13,4.08,3.0,13
+1 F2 a,F2,Charlestown SC - Rossmore,14,3.53,3.0,15
+1 F2 a,F2,Charlestown SC - Rossmore,15,3.87,3.0,15
+1 F2 a,F2,Charlestown SC - Rossmore,16,3.87,3.0,15
+1 F2 a,F2,Charlestown SC - Rossmore,17,4.14,3.0,14
+1 F2 a,F2,Charlestown SC - Rossmore,18,4.17,3.0,12
+1 F2 a,F2,Charlestown SC - Rossmore,19,4.58,5.0,12
+1 F2 a,F2,Charlestown SC - Rossmore,20,4.14,3.0,14
+1 F2 a,F2,Charlestown SC - Rossmore,21,3.87,3.0,15
+1 F2 a,F2,Charlestown SC - Rossmore,22,3.64,3.0,11
+1 F2 a,F2,Charlestown SC - Rossmore,23,8.0,5.0,5
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,5,8.0,5.0,5
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,6,6.11,5.0,9
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,7,5.5,5.0,10
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,8,6.88,5.0,8
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,9,7.14,5.0,7
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,10,6.11,5.0,9
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,11,6.11,5.0,9
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,12,6.11,5.0,9
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,13,6.11,5.0,9
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,14,5.0,5.0,11
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,15,5.0,5.0,11
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,16,5.0,5.0,11
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,17,5.0,5.0,11
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,18,5.56,5.0,9
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,19,5.0,5.0,10
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,20,5.0,5.0,10
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,21,5.0,5.0,10
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,22,5.0,5.0,9
+1 F3 a,F3,Charlestown SC - Limekiln Avenue,23,5.0,5.0,2
+1 G1,G1,Red Cow LUAS - Spencer Dock,0,2.25,1.5,4
+1 G1,G1,Red Cow LUAS - Spencer Dock,1,2.67,3.0,3
+1 G1,G1,Red Cow LUAS - Spencer Dock,2,2.67,3.0,3
+1 G1,G1,Red Cow LUAS - Spencer Dock,3,2.67,3.0,3
+1 G1,G1,Red Cow LUAS - Spencer Dock,4,2.67,3.0,3
+1 G1,G1,Red Cow LUAS - Spencer Dock,5,6.56,5.0,9
+1 G1,G1,Red Cow LUAS - Spencer Dock,6,3.83,3.0,12
+1 G1,G1,Red Cow LUAS - Spencer Dock,7,3.5,2.0,16
+1 G1,G1,Red Cow LUAS - Spencer Dock,8,3.35,3.0,17
+1 G1,G1,Red Cow LUAS - Spencer Dock,9,2.94,2.0,18
+1 G1,G1,Red Cow LUAS - Spencer Dock,10,2.55,1.0,20
+1 G1,G1,Red Cow LUAS - Spencer Dock,11,3.62,2.0,13
+1 G1,G1,Red Cow LUAS - Spencer Dock,12,4.27,2.0,11
+1 G1,G1,Red Cow LUAS - Spencer Dock,13,4.27,2.0,11
+1 G1,G1,Red Cow LUAS - Spencer Dock,14,3.33,1.0,15
+1 G1,G1,Red Cow LUAS - Spencer Dock,15,2.72,2.0,18
+1 G1,G1,Red Cow LUAS - Spencer Dock,16,2.68,2.0,22
+1 G1,G1,Red Cow LUAS - Spencer Dock,17,3.0,3.0,19
+1 G1,G1,Red Cow LUAS - Spencer Dock,18,3.0,2.0,19
+1 G1,G1,Red Cow LUAS - Spencer Dock,19,3.86,2.0,14
+1 G1,G1,Red Cow LUAS - Spencer Dock,20,4.58,2.5,12
+1 G1,G1,Red Cow LUAS - Spencer Dock,21,3.62,2.5,16
+1 G1,G1,Red Cow LUAS - Spencer Dock,22,3.62,2.5,16
+1 G1,G1,Red Cow LUAS - Spencer Dock,23,6.0,6.0,5
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,0,1.33,1.0,3
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,1,1.33,1.0,3
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,2,1.33,1.0,3
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,3,1.6,2.0,5
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,4,5.5,5.5,2
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,5,9.5,8.5,6
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,6,4.91,3.0,11
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,7,2.94,3.0,17
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,8,2.79,3.0,19
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,9,3.46,2.0,13
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,10,3.69,2.0,13
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,11,3.93,2.0,15
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,12,4.21,2.0,14
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,13,4.21,2.0,14
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,14,3.43,1.5,14
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,15,3.22,2.0,18
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,16,3.05,2.0,19
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,17,2.9,2.0,20
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,18,3.0,2.0,19
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,19,3.73,2.0,15
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,20,3.47,3.0,15
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,21,3.57,3.0,14
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,22,3.75,3.0,12
+1 G2 a,G2,Liffey Valley SC - Spencer Dock,23,4.55,1.0,11
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,5,11.2,6.0,5
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,6,4.67,4.0,12
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,7,4.31,4.0,13
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,8,3.8,4.0,15
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,9,4.21,3.0,14
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,10,3.93,3.0,15
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,11,3.87,2.0,15
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,12,3.87,1.0,15
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,13,3.87,1.0,15
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,14,3.93,1.0,15
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,15,4.0,2.0,14
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,16,3.77,2.0,13
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,17,4.45,3.0,11
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,18,4.38,3.0,13
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,19,4.07,4.0,14
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,20,4.46,4.0,13
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,21,4.83,4.5,12
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,22,4.5,4.5,10
+1 H1 c a,H1,Baldoyle - Lower Abbey Street,23,7.8,8.0,5
+1 H2 c a,H2,Malahide - Lower Abbey Street,0,10.0,10.0,1
+1 H2 c a,H2,Malahide - Lower Abbey Street,5,2.0,2.0,1
+1 H2 c a,H2,Malahide - Lower Abbey Street,6,5.86,4.0,7
+1 H2 c a,H2,Malahide - Lower Abbey Street,7,5.5,6.0,10
+1 H2 c a,H2,Malahide - Lower Abbey Street,8,7.0,5.0,7
+1 H2 c a,H2,Malahide - Lower Abbey Street,9,5.33,2.0,6
+1 H2 c a,H2,Malahide - Lower Abbey Street,10,5.29,2.0,7
+1 H2 c a,H2,Malahide - Lower Abbey Street,11,9.83,6.5,6
+1 H2 c a,H2,Malahide - Lower Abbey Street,12,11.8,7.0,5
+1 H2 c a,H2,Malahide - Lower Abbey Street,13,11.8,7.0,5
+1 H2 c a,H2,Malahide - Lower Abbey Street,14,8.43,4.0,7
+1 H2 c a,H2,Malahide - Lower Abbey Street,15,9.5,5.0,6
+1 H2 c a,H2,Malahide - Lower Abbey Street,16,8.29,4.0,7
+1 H2 c a,H2,Malahide - Lower Abbey Street,17,5.29,4.0,7
+1 H2 c a,H2,Malahide - Lower Abbey Street,18,7.4,4.0,5
+1 H2 c a,H2,Malahide - Lower Abbey Street,19,6.11,4.0,9
+1 H2 c a,H2,Malahide - Lower Abbey Street,20,5.43,4.0,7
+1 H2 c a,H2,Malahide - Lower Abbey Street,21,9.0,8.0,5
+1 H2 c a,H2,Malahide - Lower Abbey Street,22,7.5,7.5,6
+1 H2 c a,H2,Malahide - Lower Abbey Street,23,20.0,20.0,2
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,5,7.0,7.0,2
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,6,8.8,5.0,5
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,7,7.5,5.0,6
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,8,4.5,2.0,10
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,9,5.67,1.5,6
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,10,6.4,1.0,5
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,11,6.2,1.0,5
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,12,6.6,2.0,5
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,13,5.5,2.0,6
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,14,5.62,2.0,8
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,15,5.11,2.0,9
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,16,6.0,4.0,8
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,17,6.71,4.0,7
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,18,6.0,2.0,8
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,19,5.89,4.0,9
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,20,5.25,5.0,8
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,21,6.62,5.0,8
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,22,5.29,5.0,7
+1 H3 c a,H3,Howth Summit - Lower Abbey Street,23,8.67,5.0,3
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,6,10.0,10.0,2
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,7,13.33,10.0,3
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,8,13.33,10.0,3
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,9,13.33,10.0,3
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,10,13.33,10.0,3
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,11,13.33,10.0,3
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,12,13.33,10.0,3
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,13,13.33,10.0,3
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,14,13.33,10.0,3
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,15,13.33,10.0,3
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,16,13.33,10.0,3
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,17,13.33,10.0,3
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,18,13.33,10.0,3
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,19,30.0,30.0,1
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,20,30.0,30.0,1
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,21,30.0,30.0,1
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,22,30.0,30.0,1
+1 L12 a,L12,Ballywaltrim - Bray Dart Station,23,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,7,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,8,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,9,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,10,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,11,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,12,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,13,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,14,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,15,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,16,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,17,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,18,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,19,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,20,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,21,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,22,30.0,30.0,1
+1 L14 a,L14,Southern Cross Road - Palermo,23,30.0,30.0,1
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,6,9.0,10.0,5
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,7,7.5,7.0,6
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,8,7.5,7.5,6
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,9,9.0,10.0,5
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,10,6.43,5.0,7
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,11,6.43,5.0,7
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,12,6.43,5.0,7
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,13,6.43,5.0,7
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,14,6.43,5.0,7
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,15,6.43,5.0,7
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,16,9.0,10.0,5
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,17,9.0,10.0,5
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,18,9.0,10.0,5
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,19,9.0,10.0,5
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,20,7.5,7.5,6
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,21,7.5,7.5,6
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,22,7.5,7.5,6
+1 L25,L25,Dun Laoghaire - Dundrum Town Centre,23,13.33,10.0,3
+1 L53 c,L53,Liffey Valley - Adamstown Stn,5,13.0,13.0,2
+1 L53 c,L53,Liffey Valley - Adamstown Stn,6,9.8,6.0,5
+1 L53 c,L53,Liffey Valley - Adamstown Stn,7,7.14,6.0,7
+1 L53 c,L53,Liffey Valley - Adamstown Stn,8,9.0,9.0,6
+1 L53 c,L53,Liffey Valley - Adamstown Stn,9,5.75,5.0,8
+1 L53 c,L53,Liffey Valley - Adamstown Stn,10,5.0,4.0,9
+1 L53 c,L53,Liffey Valley - Adamstown Stn,11,5.11,4.0,9
+1 L53 c,L53,Liffey Valley - Adamstown Stn,12,5.33,3.0,9
+1 L53 c,L53,Liffey Valley - Adamstown Stn,13,5.11,4.0,9
+1 L53 c,L53,Liffey Valley - Adamstown Stn,14,6.0,5.0,8
+1 L53 c,L53,Liffey Valley - Adamstown Stn,15,6.62,4.5,8
+1 L53 c,L53,Liffey Valley - Adamstown Stn,16,5.89,5.0,9
+1 L53 c,L53,Liffey Valley - Adamstown Stn,17,5.22,4.0,9
+1 L53 c,L53,Liffey Valley - Adamstown Stn,18,5.33,4.0,9
+1 L53 c,L53,Liffey Valley - Adamstown Stn,19,5.5,4.0,8
+1 L53 c,L53,Liffey Valley - Adamstown Stn,20,4.67,2.0,9
+1 L53 c,L53,Liffey Valley - Adamstown Stn,21,7.17,6.0,6
+1 L53 c,L53,Liffey Valley - Adamstown Stn,22,10.5,8.5,4
+1 L53 c,L53,Liffey Valley - Adamstown Stn,23,9.0,5.0,3
+1 L54 b,L54,River Forest - Red Cow Luas,6,15.0,15.0,3
+1 L54 b,L54,River Forest - Red Cow Luas,7,11.25,11.5,4
+1 L54 b,L54,River Forest - Red Cow Luas,8,15.0,15.0,3
+1 L54 b,L54,River Forest - Red Cow Luas,9,15.0,15.0,3
+1 L54 b,L54,River Forest - Red Cow Luas,10,15.0,15.0,3
+1 L54 b,L54,River Forest - Red Cow Luas,11,15.0,15.0,3
+1 L54 b,L54,River Forest - Red Cow Luas,12,30.0,30.0,1
+1 L54 b,L54,River Forest - Red Cow Luas,13,30.0,30.0,1
+1 L54 b,L54,River Forest - Red Cow Luas,14,30.0,30.0,1
+1 L54 b,L54,River Forest - Red Cow Luas,15,30.0,30.0,1
+1 L54 b,L54,River Forest - Red Cow Luas,16,18.5,18.5,2
+1 L54 b,L54,River Forest - Red Cow Luas,17,30.0,30.0,1
+1 L54 b,L54,River Forest - Red Cow Luas,18,30.0,30.0,1
+1 L54 b,L54,River Forest - Red Cow Luas,19,30.0,30.0,1
+1 L54 b,L54,River Forest - Red Cow Luas,20,30.0,30.0,1
+1 L54 b,L54,River Forest - Red Cow Luas,21,30.0,30.0,1
+1 L54 b,L54,River Forest - Red Cow Luas,22,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,6,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,7,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,8,18.33,25.0,3
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,9,15.0,15.0,2
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,10,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,11,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,12,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,13,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,14,17.5,17.5,2
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,15,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,16,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,17,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,18,15.0,15.0,2
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,19,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,20,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,21,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,22,30.0,30.0,1
+1 L58 b,L58,River Forest - Castletown - Hazelhatch Stn,23,13.33,15.0,3
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,6,7.5,7.5,4
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,7,8.33,8.0,6
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,8,7.0,5.0,5
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,9,6.4,2.0,5
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,10,5.86,4.0,7
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,11,6.33,4.0,6
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,12,6.0,5.0,7
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,13,6.0,4.0,7
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,14,5.75,5.0,8
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,15,6.29,5.0,7
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,16,6.43,7.0,7
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,17,6.75,5.5,8
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,18,6.17,4.5,6
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,19,5.57,4.0,7
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,20,6.0,2.5,6
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,21,6.6,2.0,5
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,22,6.4,1.0,5
+1 L59 b,L59,River Forest - Celbridge - Hazelhatch,23,4.0,1.5,4
+1 N4,N4,Blanchardstown - Point Village,0,18.33,25.0,3
+1 N4,N4,Blanchardstown - Point Village,1,18.33,25.0,3
+1 N4,N4,Blanchardstown - Point Village,2,18.33,25.0,3
+1 N4,N4,Blanchardstown - Point Village,3,18.33,25.0,3
+1 N4,N4,Blanchardstown - Point Village,4,18.33,25.0,3
+1 N4,N4,Blanchardstown - Point Village,5,7.0,10.0,5
+1 N4,N4,Blanchardstown - Point Village,6,6.11,6.0,9
+1 N4,N4,Blanchardstown - Point Village,7,6.11,6.0,9
+1 N4,N4,Blanchardstown - Point Village,8,5.4,5.0,10
+1 N4,N4,Blanchardstown - Point Village,9,4.5,4.0,12
+1 N4,N4,Blanchardstown - Point Village,10,4.5,4.0,12
+1 N4,N4,Blanchardstown - Point Village,11,4.5,4.0,12
+1 N4,N4,Blanchardstown - Point Village,12,4.5,4.0,12
+1 N4,N4,Blanchardstown - Point Village,13,4.5,4.0,12
+1 N4,N4,Blanchardstown - Point Village,14,4.5,4.0,12
+1 N4,N4,Blanchardstown - Point Village,15,4.5,4.0,12
+1 N4,N4,Blanchardstown - Point Village,16,4.5,4.0,12
+1 N4,N4,Blanchardstown - Point Village,17,4.5,4.0,12
+1 N4,N4,Blanchardstown - Point Village,18,4.5,4.0,12
+1 N4,N4,Blanchardstown - Point Village,19,4.5,4.5,12
+1 N4,N4,Blanchardstown - Point Village,20,4.5,4.5,12
+1 N4,N4,Blanchardstown - Point Village,21,4.5,4.5,12
+1 N4,N4,Blanchardstown - Point Village,22,4.5,4.5,12
+1 N4,N4,Blanchardstown - Point Village,23,11.0,5.0,5
+1 P29 c,P29,Adamstown Stn - Ringsend,7,10.0,10.0,3
+1 P29 c,P29,Adamstown Stn - Ringsend,17,20.0,20.0,2
+1 S2,S2,Sean Moore Road - Heuston Station,5,15.0,15.0,2
+1 S2,S2,Sean Moore Road - Heuston Station,6,6.25,5.0,8
+1 S2,S2,Sean Moore Road - Heuston Station,7,6.11,5.0,9
+1 S2,S2,Sean Moore Road - Heuston Station,8,5.5,5.0,10
+1 S2,S2,Sean Moore Road - Heuston Station,9,9.17,10.0,6
+1 S2,S2,Sean Moore Road - Heuston Station,10,7.86,5.0,7
+1 S2,S2,Sean Moore Road - Heuston Station,11,7.86,5.0,7
+1 S2,S2,Sean Moore Road - Heuston Station,12,7.86,5.0,7
+1 S2,S2,Sean Moore Road - Heuston Station,13,7.86,5.0,7
+1 S2,S2,Sean Moore Road - Heuston Station,14,7.86,5.0,7
+1 S2,S2,Sean Moore Road - Heuston Station,15,7.86,5.0,7
+1 S2,S2,Sean Moore Road - Heuston Station,16,7.86,5.0,7
+1 S2,S2,Sean Moore Road - Heuston Station,17,7.86,5.0,7
+1 S2,S2,Sean Moore Road - Heuston Station,18,7.86,5.0,7
+1 S2,S2,Sean Moore Road - Heuston Station,19,7.86,5.0,7
+1 S2,S2,Sean Moore Road - Heuston Station,20,7.86,5.0,7
+1 S2,S2,Sean Moore Road - Heuston Station,21,7.86,5.0,7
+1 S2,S2,Sean Moore Road - Heuston Station,22,7.86,5.0,7
+1 S2,S2,Sean Moore Road - Heuston Station,23,15.0,15.0,2
+1 X1 a,X1,Kilcoole - Hawkins Street,7,12.5,10.0,4
+1 X1 a,X1,Kilcoole - Hawkins Street,17,20.0,20.0,1
+1 X2 a,X2,Newcastle - Hawkins Street,6,20.0,20.0,1
+1 X2 a,X2,Newcastle - Hawkins Street,7,10.0,10.0,1
+1 X25 c,X25,Maynooth - Easton Rd - UCD,7,22.5,22.5,2
+1 X25 c,X25,Maynooth - Easton Rd - UCD,16,18.0,18.0,2
+1 X25 c,X25,Maynooth - Easton Rd - UCD,17,15.0,15.0,1
+1 X26 c,X26,Maynooth - Louisa Bridge - Leeson Street Lower,7,15.0,15.0,2
+1 X27 d,X27,Salesian College - Aghards Rd - UCD,7,20.0,20.0,2
+1 X27 d,X27,Salesian College - Aghards Rd - UCD,17,19.5,19.5,2
+1 X28 d,X28,Salesian College - Celbridge Main St - UCD,7,15.0,15.0,3
+1 X28 d,X28,Salesian College - Celbridge Main St - UCD,16,20.0,20.0,1
+1 X28 d,X28,Salesian College - Celbridge Main St - UCD,17,10.0,10.0,1
+1 X30 d,X30,Dodsboro - UCD,7,15.0,15.0,1
+1 X31 c,X31,River Forest - UCD Belfield,7,20.0,20.0,2
+1 X31 c,X31,River Forest - UCD Belfield,17,30.0,30.0,1
+1 X32 c,X32,Kildare Innovation Campus - UCD Belfield,7,30.0,30.0,1

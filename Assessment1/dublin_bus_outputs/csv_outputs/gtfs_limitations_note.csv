@@ -1,0 +1,6 @@
+limitation,meaning
+GTFS schedule data only,"This analysis uses planned timetable data, not real-time AVL or GTFS-Realtime vehicle positions."
+Congestion is inferred,"Longer scheduled inter-stop times can indicate expected congestion, but they are not direct observed delay."
+No passenger counts,"The feed does not include boardings, alightings, crowding, Leap Card taps, or APC data."
+No signal priority events,"The feed does not show TSP requests, signal phases, or intersection delay directly."
+Best use,"Use the outputs as planning and ITS design evidence, then recommend AVL/RTPI/GTFS-RT integration for actual performance monitoring."

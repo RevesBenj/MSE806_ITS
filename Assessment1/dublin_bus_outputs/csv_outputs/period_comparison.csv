@@ -1,0 +1,5 @@
+period,mean_segment_seconds,median_segment_seconds,segment_count,increase_vs_offpeak_percent
+Off-peak,63.57,53.0,477010,0.0
+Midday,80.45,68.0,492102,26.55
+Morning peak,80.48,66.0,238147,26.6
+Evening peak,86.11,72.0,279832,35.46

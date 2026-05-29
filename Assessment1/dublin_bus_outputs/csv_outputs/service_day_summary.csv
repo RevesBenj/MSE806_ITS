@@ -1,0 +1,8 @@
+day_type,active_dates,scheduled_trips,total_trip_instances,average_trips_per_active_date
+Monday,12,13280,91352,7612.67
+Tuesday,12,8099,97188,8099.0
+Wednesday,13,8099,105287,8099.0
+Thursday,13,8099,105287,8099.0
+Friday,13,8099,105287,8099.0
+Saturday,13,6648,86424,6648.0
+Sunday,12,5181,62172,5181.0

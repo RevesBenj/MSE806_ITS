@@ -1,0 +1,6 @@
+metric,value
+pearson_r_peak_vs_travel_time,0.588
+pearson_p_value,0.0025313608379665536
+regression_r2,0.136
+worst_hour,17.0
+worst_hour_mean_segment_seconds,88.93
